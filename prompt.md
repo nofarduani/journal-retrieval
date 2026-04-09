@@ -75,12 +75,17 @@ Then append an entry with:
 
 This phase runs after EVERY run, including failures. If an earlier phase failed, record what happened and which phase failed.
 
-## Phase 5: Commit and Push
+## Phase 5: Commit and Push to Main
+
+IMPORTANT: All changes MUST be pushed directly to the `main` branch, not to a `claude/` branch. The next run clones `main`, so data on any other branch will be lost.
 
 Run:
+  git checkout main
   git add data/memory.json data/social_graph.json data/run_log.md reports/
   git diff --cached --quiet || git commit -m "Weekly digest run: $(date -u +%Y-%m-%d)"
   git push origin main
+
+If you are on a different branch, merge or cherry-pick your commits onto `main` first, then push `main`. Do NOT push to a `claude/` branch — that will cause data loss.
 
 Do NOT commit data/candidates_meta.json, data/all_fetched.json, data/batches/, or data/results/.
 
