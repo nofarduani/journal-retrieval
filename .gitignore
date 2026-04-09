@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/candidates.json
+data/candidates_meta.json
+data/all_fetched.json
+data/batches/
+data/results/

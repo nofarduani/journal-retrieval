@@ -1,0 +1,6273 @@
+{
+  "last_refreshed": "2026-04-09T00:48:19.423863+00:00",
+  "handle": "nofarduani.bsky.social",
+  "first_degree": [
+    {
+      "did": "did:plc:c5jrg2chf4tod3xjgcoouahn",
+      "handle": "rthaler.bsky.social",
+      "display_name": "Richard Thaler"
+    },
+    {
+      "did": "did:plc:vl7iw2awdpm72srjve3f4fj2",
+      "handle": "pkrugman.bsky.social",
+      "display_name": "Paul Krugman"
+    },
+    {
+      "did": "did:plc:sf2hrdm6qt3jcqrvru72hi3n",
+      "handle": "serenahagerty.bsky.social",
+      "display_name": "Serena Hagerty"
+    },
+    {
+      "did": "did:plc:j4bi2wmzkzejoz62sec2f7lp",
+      "handle": "ignacioriverosg.bsky.social",
+      "display_name": ""
+    },
+    {
+      "did": "did:plc:pmoqblib4dap2cjt6kxr35sh",
+      "handle": "yudinglab.bsky.social",
+      "display_name": "Yu Ding"
+    },
+    {
+      "did": "did:plc:ohm6otz5pe4kxkqqqzqkqso7",
+      "handle": "yujiwinet.bsky.social",
+      "display_name": "Yuji Winet"
+    },
+    {
+      "did": "did:plc:fchf5tbzbkbgie6t3wkhsnwo",
+      "handle": "cusimano.bsky.social",
+      "display_name": "Corey Cusimano"
+    },
+    {
+      "did": "did:plc:zffh4cjfro3t44fb5w63q7jp",
+      "handle": "paulbloomatyale.bsky.social",
+      "display_name": "Paul Bloom "
+    },
+    {
+      "did": "did:plc:zlhfcjy5topefg4a2st6nhi4",
+      "handle": "deborahsmall.bsky.social",
+      "display_name": "Deborah Small"
+    },
+    {
+      "did": "did:plc:jat46ss3ubz5kfn6ypc5r676",
+      "handle": "olegurminsky.bsky.social",
+      "display_name": "Oleg Urminsky"
+    },
+    {
+      "did": "did:plc:gd2evmvmme7xqvchsoezd62b",
+      "handle": "amit-goldenberg.bsky.social",
+      "display_name": "Amit Goldenberg"
+    },
+    {
+      "did": "did:plc:zaya77zbtlfsomtcfqkxvc3b",
+      "handle": "katymilkman.bsky.social",
+      "display_name": "Katy Milkman"
+    },
+    {
+      "did": "did:plc:adwbydexiuhpyox2lqxakpdy",
+      "handle": "spillersas.bsky.social",
+      "display_name": "Stephen Spiller"
+    },
+    {
+      "did": "did:plc:xgsysfc6hrwpf5nna5fxmj5c",
+      "handle": "aleximas.bsky.social",
+      "display_name": "Alex Imas"
+    },
+    {
+      "did": "did:plc:h3nc7pvbzxk2xdneokxrrkjt",
+      "handle": "kristindiehl.bsky.social",
+      "display_name": "Kristin Diehl"
+    },
+    {
+      "did": "did:plc:kt66676ndt5zxfxd3g7kr7wr",
+      "handle": "beidiwho.bsky.social",
+      "display_name": "Beidi Hu"
+    },
+    {
+      "did": "did:plc:cnwu4rnoqnwetssz5bcfxg4a",
+      "handle": "giladfeldman.bsky.social",
+      "display_name": "Gilad Feldman"
+    },
+    {
+      "did": "did:plc:oofioimgxn7w2ihmopoplyne",
+      "handle": "eeshasharma.bsky.social",
+      "display_name": "Eesha Sharma"
+    },
+    {
+      "did": "did:plc:lecnttenhv6kquhhscasjenw",
+      "handle": "abbysussman.bsky.social",
+      "display_name": "Abby Sussman"
+    },
+    {
+      "did": "did:plc:mg6k6llb5ruhhf5vxh3pvqkz",
+      "handle": "urisohn.bsky.social",
+      "display_name": "Uri Simonsohn "
+    },
+    {
+      "did": "did:plc:a6stdmikxep3md2xvgqqispv",
+      "handle": "adaaka.bsky.social",
+      "display_name": "Ada Aka"
+    },
+    {
+      "did": "did:plc:luckdlghj5iyo45tcvut76qe",
+      "handle": "nschwarz.bsky.social",
+      "display_name": "Norbert Schwarz"
+    },
+    {
+      "did": "did:plc:5mj3u4tnxciyyvrsxqv254xw",
+      "handle": "rafmbatista.bsky.social",
+      "display_name": "Rafael M Batista"
+    },
+    {
+      "did": "did:plc:ab7lo77ubcocnkm5ljkpeq2a",
+      "handle": "julianaschroeder.bsky.social",
+      "display_name": "Juliana Schroeder"
+    },
+    {
+      "did": "did:plc:hqlh6zmwm537tm6tr5dwur2j",
+      "handle": "dschley.bsky.social",
+      "display_name": "Dan Schley "
+    },
+    {
+      "did": "did:plc:l3fzzrzxpd5t7qmjalrjq7hj",
+      "handle": "kurtmunz.bsky.social",
+      "display_name": "Kurt Munz "
+    },
+    {
+      "did": "did:plc:xwh7sq2tomir4jcitfldbtcy",
+      "handle": "barbaraekahn.bsky.social",
+      "display_name": "Barbara Kahn"
+    },
+    {
+      "did": "did:plc:ur4nbcpmhyo2pdjs65enq7ma",
+      "handle": "tomnovak.bsky.social",
+      "display_name": "Tom Novak"
+    },
+    {
+      "did": "did:plc:reshatayh7jr3gkowqp5upex",
+      "handle": "profhoff.bsky.social",
+      "display_name": "Donna L. Hoffman"
+    },
+    {
+      "did": "did:plc:z4rcrmowhykdnpkvce3khuww",
+      "handle": "ericjjohnson.bsky.social",
+      "display_name": "Eric J. Johnson"
+    },
+    {
+      "did": "did:plc:muiagnfcxetniavsqvpiypmd",
+      "handle": "stevecarney.bsky.social",
+      "display_name": "Steve Carney"
+    },
+    {
+      "did": "did:plc:vxnxalygqan67win4cl4zjjj",
+      "handle": "natefast.bsky.social",
+      "display_name": "Nate Fast"
+    },
+    {
+      "did": "did:plc:fcsfjboo4vw6rkuebz6ciwuy",
+      "handle": "kurtjgray.bsky.social",
+      "display_name": "Kurt Gray"
+    },
+    {
+      "did": "did:plc:2lboisyd26lxqivvkv4ltbdx",
+      "handle": "datacolada.bsky.social",
+      "display_name": "Data Colada"
+    },
+    {
+      "did": "did:plc:nyphvryyqsavoc6mexvf34qd",
+      "handle": "dhardisty.bsky.social",
+      "display_name": "Dave Hardisty"
+    },
+    {
+      "did": "did:plc:tu7atlzbxdtk67cdhigy752v",
+      "handle": "geowu.bsky.social",
+      "display_name": "George Wu"
+    },
+    {
+      "did": "did:plc:rkfxazqpgyzgjlfakzrigpzn",
+      "handle": "lisakramer.com",
+      "display_name": "Lisa Kramer"
+    },
+    {
+      "did": "did:plc:6yzwjdo62cevn2br3aua3kot",
+      "handle": "ayeletfishbach.bsky.social",
+      "display_name": "Ayelet Fishbach"
+    },
+    {
+      "did": "did:plc:zx7b6lbjuzxmpazhxaujxcel",
+      "handle": "blasimon.bsky.social",
+      "display_name": "Simon Blanchard"
+    },
+    {
+      "did": "did:plc:oucmlphrixcw5ikjktttcnpl",
+      "handle": "ikesilver.bsky.social",
+      "display_name": "Ike Silver"
+    },
+    {
+      "did": "did:plc:cv5b26rohluzc3gce2jgouom",
+      "handle": "hal-hershfield.bsky.social",
+      "display_name": "Hal Hershfield"
+    },
+    {
+      "did": "did:plc:lcwkkzq4fykhvp5cfgf4qdcn",
+      "handle": "cfcamerer.bsky.social",
+      "display_name": "Colin Camerer"
+    },
+    {
+      "did": "did:plc:6v5secrqtkqfuwejo56gdyjm",
+      "handle": "profkatewhite.bsky.social",
+      "display_name": "Kate White"
+    },
+    {
+      "did": "did:plc:umhgy6es35ubc7ubridgdjyk",
+      "handle": "profshu.bsky.social",
+      "display_name": "Suzanne Shu"
+    },
+    {
+      "did": "did:plc:5edcof4skcfo5xmlbh4atjdw",
+      "handle": "melaniebrucks.bsky.social",
+      "display_name": "Melanie Brucks"
+    },
+    {
+      "did": "did:plc:esm66x5drfhw62x5pmlrwfym",
+      "handle": "fschilbach.bsky.social",
+      "display_name": "Frank Schilbach"
+    },
+    {
+      "did": "did:plc:dsrnkdsj6qezeaxsstnkn2xl",
+      "handle": "jackiesilverman.bsky.social",
+      "display_name": "Jackie Silverman PhD"
+    },
+    {
+      "did": "did:plc:azmloy5bd2cxvaxak2bucw6e",
+      "handle": "mhusseinlab.bsky.social",
+      "display_name": "Mohamed A. Hussein"
+    },
+    {
+      "did": "did:plc:whocsdkrz24pmvojd7follpr",
+      "handle": "jennygin18.bsky.social",
+      "display_name": "Jenny Olson"
+    },
+    {
+      "did": "did:plc:k5c42nk4sskhdvh7d7asna3o",
+      "handle": "lucacian.bsky.social",
+      "display_name": "Luca Cian"
+    },
+    {
+      "did": "did:plc:dtgy62tymnpbnzozbpgnov56",
+      "handle": "jessicacalarco.com",
+      "display_name": "Jess Calarco"
+    },
+    {
+      "did": "did:plc:uexizjpqyhcvtjusrbadubzz",
+      "handle": "stephtully.bsky.social",
+      "display_name": "Steph Tully"
+    },
+    {
+      "did": "did:plc:z72i7hdynmk6r22z27h6tvur",
+      "handle": "bsky.app",
+      "display_name": "Bluesky"
+    }
+  ],
+  "second_degree": [
+    {
+      "did": "did:plc:vvy3rtkzkh2ydeqvyiogvau4",
+      "handle": "dggoldst.bsky.social",
+      "display_name": "Dan Goldstein",
+      "network_score": 40
+    },
+    {
+      "did": "did:plc:ezhxnbgiisy5sowi3hwfs7o4",
+      "handle": "quentinandre.bsky.social",
+      "display_name": "Quentin André",
+      "network_score": 37
+    },
+    {
+      "did": "did:plc:f6znunbzuh6qhkiqox2frmpk",
+      "handle": "umakarma.bsky.social",
+      "display_name": "Uma Karmarkar",
+      "network_score": 37
+    },
+    {
+      "did": "did:plc:2t4ifqanihls4zjexoe3b2lc",
+      "handle": "joesimmons.bsky.social",
+      "display_name": "Joe Simmons",
+      "network_score": 35
+    },
+    {
+      "did": "did:plc:pnxrfrk2yh6qnt24sgwlyefr",
+      "handle": "jzberman.bsky.social",
+      "display_name": "Jonathan Berman",
+      "network_score": 35
+    },
+    {
+      "did": "did:plc:pjtlhtp5meiqmfyrnsjixprw",
+      "handle": "avnishah.bsky.social",
+      "display_name": "Avni Shah",
+      "network_score": 35
+    },
+    {
+      "did": "did:plc:kwffsd2dandiwey2l6zmq3tv",
+      "handle": "bskybymidge.bsky.social",
+      "display_name": "Margaret Echelbarger",
+      "network_score": 34
+    },
+    {
+      "did": "did:plc:heemxykzfzfpdbkyoucb2dqp",
+      "handle": "yeli.bsky.social",
+      "display_name": "Ye Li",
+      "network_score": 34
+    },
+    {
+      "did": "did:plc:r5ewmaamcrutf6t74ddpa6vj",
+      "handle": "ievangelidis.bsky.social",
+      "display_name": "Ioannis Evangelidis",
+      "network_score": 33
+    },
+    {
+      "did": "did:plc:l5q26ozsx6vemisfun3ay7zn",
+      "handle": "gordpennycook.bsky.social",
+      "display_name": "Gordon Pennycook",
+      "network_score": 33
+    },
+    {
+      "did": "did:plc:wchtb2jcqvy6d6jyyue22orq",
+      "handle": "scottianrick.bsky.social",
+      "display_name": "Scott Rick",
+      "network_score": 32
+    },
+    {
+      "did": "did:plc:2i436xmthkx77jhstruxjiun",
+      "handle": "dgrand.bsky.social",
+      "display_name": "David Rand",
+      "network_score": 32
+    },
+    {
+      "did": "did:plc:bkzaj3yeibxw5j33nvx4myzh",
+      "handle": "ellenpeters.bsky.social",
+      "display_name": "Ellen Peters",
+      "network_score": 31
+    },
+    {
+      "did": "did:plc:uugkwyvvjr4czda7zcictbev",
+      "handle": "davenussbaum.bsky.social",
+      "display_name": "Dave Nussbaum",
+      "network_score": 31
+    },
+    {
+      "did": "did:plc:ijlvonk3rkdqsa6grcdmdvob",
+      "handle": "carolineroux.bsky.social",
+      "display_name": "Prof. Caroline Roux",
+      "network_score": 30
+    },
+    {
+      "did": "did:plc:uy3n5txrcaarq7ywpdxm3b44",
+      "handle": "krefeldschwalb.bsky.social",
+      "display_name": "Antonia Krefeld-Schwalb ",
+      "network_score": 30
+    },
+    {
+      "did": "did:plc:bdnmiy4guob4diyygg7u5zxo",
+      "handle": "hirshmansam.bsky.social",
+      "display_name": "Sam Hirshman",
+      "network_score": 30
+    },
+    {
+      "did": "did:plc:e5yna6cmvlsyrbc7ehtunvwc",
+      "handle": "jayvanbavel.bsky.social",
+      "display_name": "Jay Van Bavel, PhD",
+      "network_score": 29
+    },
+    {
+      "did": "did:plc:eyauhxfxhklrl22vwmuj476a",
+      "handle": "gpaolacci.bsky.social",
+      "display_name": "Gabriele Paolacci",
+      "network_score": 29
+    },
+    {
+      "did": "did:plc:yo3apgqipq6de7lj6cfpbpge",
+      "handle": "yoelinbar.net",
+      "display_name": "Yoel Inbar",
+      "network_score": 28
+    },
+    {
+      "did": "did:plc:7by7jsfzrcsrytvmpm5ersrl",
+      "handle": "drgiesler.bsky.social",
+      "display_name": "Markus Giesler",
+      "network_score": 27
+    },
+    {
+      "did": "did:plc:3v63br4wna3zybnbxu735isq",
+      "handle": "mikeyeomans.bsky.social",
+      "display_name": "Mike Yeomans",
+      "network_score": 27
+    },
+    {
+      "did": "did:plc:csgwdbxdo7ajt4fkkrjnohry",
+      "handle": "danielread.bsky.social",
+      "display_name": "Daniel Read",
+      "network_score": 26
+    },
+    {
+      "did": "did:plc:hxndapfwn55hbao3wlcoy24l",
+      "handle": "btshapir.bsky.social",
+      "display_name": "Brad Shapiro",
+      "network_score": 25
+    },
+    {
+      "did": "did:plc:jhxnlqmy26jikbcst6kux7fr",
+      "handle": "mjcrockett.bsky.social",
+      "display_name": "M.J. Crockett",
+      "network_score": 25
+    },
+    {
+      "did": "did:plc:a4szrntxglnqxwmw4bqppc4c",
+      "handle": "avnershlain.bsky.social",
+      "display_name": "Avner Strulov-Shlain 🎗️",
+      "network_score": 25
+    },
+    {
+      "did": "did:plc:aiw33me4g3zih3nd2vefytym",
+      "handle": "simine.com",
+      "display_name": "simine vazire",
+      "network_score": 25
+    },
+    {
+      "did": "did:plc:6ok5fobuc4rdydi6sicbaxlo",
+      "handle": "koenfucius.bsky.social",
+      "display_name": "koenfucius",
+      "network_score": 25
+    },
+    {
+      "did": "did:plc:q6rz4xklcsc2ppjksxhu4nzb",
+      "handle": "kellenmrkva.bsky.social",
+      "display_name": "Kellen Mrkva",
+      "network_score": 25
+    },
+    {
+      "did": "did:plc:zobujqws6rru6wvxtggnkwh7",
+      "handle": "eckles.bsky.social",
+      "display_name": "Dean Eckles",
+      "network_score": 24
+    },
+    {
+      "did": "did:plc:wxw5b3r5vkv6msbdiw46pmye",
+      "handle": "daviddunning6.bsky.social",
+      "display_name": "David Dunning",
+      "network_score": 24
+    },
+    {
+      "did": "did:plc:saippvjy3n4v746lje64gezg",
+      "handle": "davidlevari.bsky.social",
+      "display_name": "David Levari",
+      "network_score": 24
+    },
+    {
+      "did": "did:plc:zlvc56fxprkqhon6icbhms5t",
+      "handle": "donandrewmoore.bsky.social",
+      "display_name": "Don Moore",
+      "network_score": 24
+    },
+    {
+      "did": "did:plc:poikcdqntnjahl3emim6jyj3",
+      "handle": "sjdm-tweets.bsky.social",
+      "display_name": "sjdm-tweets",
+      "network_score": 24
+    },
+    {
+      "did": "did:plc:fof5fmfhqjht6n2hbumevtcc",
+      "handle": "lionelpage.bsky.social",
+      "display_name": "Lionel Page",
+      "network_score": 24
+    },
+    {
+      "did": "did:plc:4kshoaytrzhgsziro6ywozul",
+      "handle": "justinwolfers.bsky.social",
+      "display_name": "Justin Wolfers",
+      "network_score": 23
+    },
+    {
+      "did": "did:plc:hpno4fhb6jzni3tnllmldavb",
+      "handle": "joeyreiff.bsky.social",
+      "display_name": "Joey Reiff",
+      "network_score": 23
+    },
+    {
+      "did": "did:plc:oc3fqfgdmb3f7nrrrngfvqh2",
+      "handle": "ruggeri.bsky.social",
+      "display_name": "Kai Ruggeri",
+      "network_score": 23
+    },
+    {
+      "did": "did:plc:yvuilngrfasm4dsdqwilirhf",
+      "handle": "stefanherzog.bsky.social",
+      "display_name": "Stefan Herzog",
+      "network_score": 23
+    },
+    {
+      "did": "did:plc:m4oniojqmvnpjfyjlqwbhkm3",
+      "handle": "briannosek.bsky.social",
+      "display_name": "Brian Nosek",
+      "network_score": 22
+    },
+    {
+      "did": "did:plc:obvfwexrrab4xi42g23mgzuq",
+      "handle": "davetannenbaum.bsky.social",
+      "display_name": "David Tannenbaum",
+      "network_score": 22
+    },
+    {
+      "did": "did:plc:unnafams2xgfxaeackqetdss",
+      "handle": "dilipsoman.bsky.social",
+      "display_name": "Dilip Soman 🇨🇦",
+      "network_score": 22
+    },
+    {
+      "did": "did:plc:ozhxvjre6ojdao5tkxexgysj",
+      "handle": "mrocklage.bsky.social",
+      "display_name": "Matt Rocklage",
+      "network_score": 21
+    },
+    {
+      "did": "did:plc:k4yrdyzsgxcdweaof4zukdtq",
+      "handle": "danielgilbert.bsky.social",
+      "display_name": "Daniel Gilbert",
+      "network_score": 21
+    },
+    {
+      "did": "did:plc:2q7ylne7h7jywyu5wtm3diga",
+      "handle": "sanjaysrivastava.com",
+      "display_name": "Sanjay Srivastava",
+      "network_score": 21
+    },
+    {
+      "did": "did:plc:ivv2vokidkpkfs6siddqwoax",
+      "handle": "juliaminson.bsky.social",
+      "display_name": "Julia Minson",
+      "network_score": 21
+    },
+    {
+      "did": "did:plc:4dyliiju47nqxqjuarzbdmjm",
+      "handle": "lindaskitka.bsky.social",
+      "display_name": "Linda Skitka",
+      "network_score": 21
+    },
+    {
+      "did": "did:plc:c6thm23mcqd3sk343obscvor",
+      "handle": "rimamrahal.bsky.social",
+      "display_name": "Rima-Maria Rahal",
+      "network_score": 21
+    },
+    {
+      "did": "did:plc:ym6vt4xfd43k3htetgq37alv",
+      "handle": "jmtroos.bsky.social",
+      "display_name": "Jason Roos",
+      "network_score": 21
+    },
+    {
+      "did": "did:plc:zkx5uyaasjdvz3m5rypihehv",
+      "handle": "chengyaosun.bsky.social",
+      "display_name": "Chengyao Sun",
+      "network_score": 21
+    },
+    {
+      "did": "did:plc:otb2jumrnlsp3loxk2i4atbz",
+      "handle": "clintin.bsky.social",
+      "display_name": "Clintin Davis-Stober",
+      "network_score": 21
+    },
+    {
+      "did": "did:plc:clxs5bimkdx2zvxzrbs6v3pw",
+      "handle": "brendannyhan.bsky.social",
+      "display_name": "Brendan Nyhan",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:yhqr64onbdcs56g5ttii7zka",
+      "handle": "kaitlinwoolley.bsky.social",
+      "display_name": "",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:z3hbgexn244ziesklldg7zvs",
+      "handle": "andresm.bsky.social",
+      "display_name": "Andres Montealegre",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:7sxsem2r2jy6tlsfvgkaq5uj",
+      "handle": "garjoh.bsky.social",
+      "display_name": "Garrett Johnson ",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:zwmrxw5g46cxsxknwwqxpkgj",
+      "handle": "jendannals.bsky.social",
+      "display_name": "Jen Dannals",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:xsv4cyikgmdvbnac2jiyzoqh",
+      "handle": "jbogard.bsky.social",
+      "display_name": "Jon Bogard",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:nkfs6l72np4nnyxuoqupc434",
+      "handle": "mwkraus.bsky.social",
+      "display_name": "Michael W. Kraus",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:7qorz7iv4nn4g6ri7mj5je4g",
+      "handle": "neillewisjr.bsky.social",
+      "display_name": "Neil Lewis, Jr.",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:xhwhqdfktu4dcd25x6j5ve2d",
+      "handle": "yesimorhun.bsky.social",
+      "display_name": "Yeşim Orhun",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:tzfcwlxjh3pzqlbadxny27vx",
+      "handle": "johanneshaushofer.com",
+      "display_name": "Johannes Haushofer",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:wp72hpbzzg7ip7cldk5ahfkt",
+      "handle": "dpegan.com",
+      "display_name": "Dan Egan",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:55tebi7mw7w7vqlzvsb7imhf",
+      "handle": "hallgeirsjastad.bsky.social",
+      "display_name": "Hallgeir Sjåstad",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:b7hchbd4jaazzkiuml7to5nr",
+      "handle": "justinsydnor.bsky.social",
+      "display_name": "Justin Sydnor",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:lmfg4f35i6a6gkkxsqk5vbcc",
+      "handle": "szaszibarnabas.bsky.social",
+      "display_name": "Barnabas Szaszi",
+      "network_score": 20
+    },
+    {
+      "did": "did:plc:mm7clqfryj2fmen76w2oix4d",
+      "handle": "dynarski.bsky.social",
+      "display_name": "Prof Dynarski",
+      "network_score": 19
+    },
+    {
+      "did": "did:plc:lxvwgszuq3ti6ycqk26mmf2l",
+      "handle": "cameronmartel.bsky.social",
+      "display_name": "Cameron Martel",
+      "network_score": 19
+    },
+    {
+      "did": "did:plc:3t5tvrmihftep3ueawjoq23l",
+      "handle": "erikakirgios.bsky.social",
+      "display_name": "Erika Kirgios",
+      "network_score": 19
+    },
+    {
+      "did": "did:plc:mtbsim5fs3bihnpxgaq2hmls",
+      "handle": "jonj.bsky.social",
+      "display_name": "Jon M Jachimowicz",
+      "network_score": 19
+    },
+    {
+      "did": "did:plc:jf4udtyuylqocyyrqdwqoxuf",
+      "handle": "byrdnick.com",
+      "display_name": "Nick Byrd, Ph.D.",
+      "network_score": 19
+    },
+    {
+      "did": "did:plc:plu3nkxw5fznqzwaz3m2um7w",
+      "handle": "karminker.bsky.social",
+      "display_name": "Elspeth Kirkman",
+      "network_score": 19
+    },
+    {
+      "did": "did:plc:ynh5a5zfqxl7m7u7shycqo22",
+      "handle": "jiminnam.bsky.social",
+      "display_name": "Jimin Nam",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:uekx6vqmaicc7m725czstpzl",
+      "handle": "annieduke.com",
+      "display_name": "Annie Duke",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:lcvue6syxlezwxvimilp3a6e",
+      "handle": "elijfinkel.bsky.social",
+      "display_name": "Eli Finkel",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:orfcuzshhhjhteohqzgk2qzp",
+      "handle": "keithchen.bsky.social",
+      "display_name": "Keith Chen",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:p7gxyfr5vii5ntpwo7f6dhe2",
+      "handle": "aoc.bsky.social",
+      "display_name": "Alexandria Ocasio-Cortez",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:titvyflzpncvgpe4pvvqbqhk",
+      "handle": "thruthal.bsky.social",
+      "display_name": "Peter Ayton",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:vznmd62veuj4enrijzq4lvus",
+      "handle": "elizabethlinos.bsky.social",
+      "display_name": "Elizabeth Linos",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:6ajkbzt3bv4xvcipcipwqh7f",
+      "handle": "davmicrot.bsky.social",
+      "display_name": "David Rothschild",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:4gc2qzszaq7w2h7wspiac6ij",
+      "handle": "enriquefatas.bsky.social",
+      "display_name": "Enrique Fatas",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:bbjvp3f2zjpnzcuzd3ntsxlj",
+      "handle": "mdlbayes.bsky.social",
+      "display_name": "Michael Lee",
+      "network_score": 18
+    },
+    {
+      "did": "did:plc:xwwaif3lssix7outqasdaoit",
+      "handle": "shengwuli.bsky.social",
+      "display_name": "Shengwu Li",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:vrhawgkhmj5rxutwn4552yad",
+      "handle": "samuelpertl.bsky.social",
+      "display_name": "Samuel Pertl",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:qnmvy2pnyt2keru7oyaivlqf",
+      "handle": "jonbaron.bsky.social",
+      "display_name": "Jonathan Baron",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:vhqugnjlbetilpna3xqe24ks",
+      "handle": "steveread.bsky.social",
+      "display_name": "Stephen J Read",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:lq5uwihewfpfjpdrdi6etppd",
+      "handle": "minzlicht.bsky.social",
+      "display_name": "Michael Inzlicht",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:evialqeatdrcahxuncjnr7jf",
+      "handle": "erinwestgate.bsky.social",
+      "display_name": "Erin Westgate",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:4iiabj43ufejwi7gafwufnjz",
+      "handle": "robbwiller.bsky.social",
+      "display_name": "Robb Willer",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:pm6o2vqrg2yd2jm7qwcigfjl",
+      "handle": "jfbonnefon.bsky.social",
+      "display_name": "Jean-François Bonnefon",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:bgpjv7qctfpkf2o6pvzyn42g",
+      "handle": "profgaelle.bsky.social",
+      "display_name": "Prof Gaëlle Vallée-Tourangeau",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:kvzisotc26z2hvpo7gkubj6r",
+      "handle": "pantelispa.bsky.social",
+      "display_name": "Pantelis P. Analytis",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:ny5mdkeqzmwvxzznshhn37qt",
+      "handle": "michaelschulte.bsky.social",
+      "display_name": "Michael Schulte",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:2mzhdtn7n3n7z5apjrzqtd2r",
+      "handle": "khoavuumn.bsky.social",
+      "display_name": "Khoa",
+      "network_score": 17
+    },
+    {
+      "did": "did:plc:eclio37ymobqex2ncko63h4r",
+      "handle": "nytimes.com",
+      "display_name": "The New York Times",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:wfssddsu5ibce34mwr7i4uuh",
+      "handle": "susanathey.bsky.social",
+      "display_name": "Susan Athey",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:jihkfjyyanniagco3sl6n5dk",
+      "handle": "jurawho.bsky.social",
+      "display_name": "Jūra Liaukonytė",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:xp6dzxtul2kk4tzfbz5i7igg",
+      "handle": "eitanrude.com",
+      "display_name": "Eitan Rude",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:tbqqvyv6pjjww44glrmycaxl",
+      "handle": "carlbergstrom.com",
+      "display_name": "Carl T. Bergstrom",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:efqlemvvz5dg2ermdkjnwm3r",
+      "handle": "stephaniemlee.bsky.social",
+      "display_name": "Stephanie M. Lee",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:emajuzt7dhj2gtflqse3lmzy",
+      "handle": "kiante.bsky.social",
+      "display_name": "Kianté",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:a5bn7kmtfvid5efvxd5rprn2",
+      "handle": "georgweizsaecker.bsky.social",
+      "display_name": "Georg Weizsäcker",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:kmkr6v6yemycebr3furu62ho",
+      "handle": "steer-rhinos.bsky.social",
+      "display_name": "Stian Reimers",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:a4pqq234yw7fqbddawjo7y35",
+      "handle": "theonion.com",
+      "display_name": "The Onion",
+      "network_score": 16
+    },
+    {
+      "did": "did:plc:aqja2znq26jwz76apa3v335p",
+      "handle": "kennethcwilbur.bsky.social",
+      "display_name": "Kenneth C Wilbur",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:emnkcuirqj5fotezpxrpknyk",
+      "handle": "dinapomeranz.bsky.social",
+      "display_name": "Dina Pomeranz",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:qtdetab37mi2yfv7qliksrya",
+      "handle": "fierycushman.bsky.social",
+      "display_name": "Fiery Cushman",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:tn37mfvcqiinmq4p2otmc7x2",
+      "handle": "rcarl.bsky.social",
+      "display_name": "Ryan Carlson",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:tjbpg4fabbtgwgtkdwtzmax3",
+      "handle": "kmarkman.bsky.social",
+      "display_name": "Keith Markman",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:eoedukv7uvfieg5edl6jvg6r",
+      "handle": "mjbsp.bsky.social",
+      "display_name": "mark brandt",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:2sgj2s4d7nfoczudfvtzm6jw",
+      "handle": "florianederer.bsky.social",
+      "display_name": "Florian Ederer ",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:z24nl3cs5dcpiqkjjjjsbcjz",
+      "handle": "toddgureckis.bsky.social",
+      "display_name": "todd gureckis",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:jbopvttj6tmoradsay7qkxj3",
+      "handle": "maxkw.bsky.social",
+      "display_name": "Max Kleiman-Weiner",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:odkmxplwlkd54n5cus3jslm6",
+      "handle": "elisugerman.bsky.social",
+      "display_name": "Eli Sugerman",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:tx4ijypkbpceer3duh2nc4w3",
+      "handle": "nomologic.bsky.social",
+      "display_name": "Anirban Mukhopadhyay",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:fhruyfwkyomvgea5f4ftozwf",
+      "handle": "caryfrydman.bsky.social",
+      "display_name": "Cary Frydman",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:pjqmzxqra2ajncbxlk7zgmj7",
+      "handle": "vinisingh.bsky.social",
+      "display_name": "Manasvini Singh",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:gjhlxnlmap2czrcaqaoqsgr7",
+      "handle": "jan-k-woike.bsky.social",
+      "display_name": "Jan K. Woike",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:ulr44iumptazeci4cqmaa2t4",
+      "handle": "mjvandenassem.bsky.social",
+      "display_name": "Martijn J. van den Assem",
+      "network_score": 15
+    },
+    {
+      "did": "did:plc:2g76ba5456ozud5fnygyj5yc",
+      "handle": "bengolub.bsky.social",
+      "display_name": "Ben Golub",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:tktyhvgeo3nqluw4wpdjzqgo",
+      "handle": "bencasselman.bsky.social",
+      "display_name": "Ben Casselman",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:xaw3wj572vw256f2kpypuvlu",
+      "handle": "regretlab.bsky.social",
+      "display_name": "Amy Summerville",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:yw3qqfa7hrhmwbc6wyrq5u7f",
+      "handle": "paulgp.com",
+      "display_name": "Paul Goldsmith-Pinkham",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:mjnzcvnc6ojj4nmdeq7jnknk",
+      "handle": "rmetcalfe.bsky.social",
+      "display_name": "Robert Metcalfe",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:x4qygjfayr4i6cejd3xrxrdo",
+      "handle": "eleafeit.bsky.social",
+      "display_name": "Elea McDonnell Feit",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:jvv6mshlmh2c2rjcatwhzxqx",
+      "handle": "faderp.bsky.social",
+      "display_name": "Peter Fader",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:53t5h22opcofvbsxdpohp4j2",
+      "handle": "joshcjackson.bsky.social",
+      "display_name": "Joshua Conrad Jackson",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:koxouwwgbvbfhzjbelabhoxw",
+      "handle": "profbohns.bsky.social",
+      "display_name": "Vanessa Bohns",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:gz53felr7btxgmbxae5aooxi",
+      "handle": "dingdingpeng.the100.ci",
+      "display_name": "Julia M. Rohrer",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:tgmztmztl7ugwircqjx35a5m",
+      "handle": "cfchabris.bsky.social",
+      "display_name": "Christopher Chabris",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:evjz7xo4465lav6yflppxv6h",
+      "handle": "joshtdean.bsky.social",
+      "display_name": "Josh Dean",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:24oj6urwpvia7mua6udhgyp7",
+      "handle": "robertboehm.bsky.social",
+      "display_name": "Robert Böhm",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:s5q5c7tf7btmg3aww2mjgxax",
+      "handle": "eyalpear.bsky.social",
+      "display_name": "Eyal Pe'er",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:yl5knq3z55ru4v53r24jhr7y",
+      "handle": "jennyallen.bsky.social",
+      "display_name": "Jenny Allen",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:pohy7nzk5fgbtth5ed67ua2z",
+      "handle": "tessneal.bsky.social",
+      "display_name": "Tess Neal",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:uql7gbrp52dxmxyfujst5yqp",
+      "handle": "dvsmith.bsky.social",
+      "display_name": "David V. Smith",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:re6yn6kyo6syk5mx2psowkfe",
+      "handle": "johnclithero.bsky.social",
+      "display_name": "John Clithero",
+      "network_score": 14
+    },
+    {
+      "did": "did:plc:y5xyloyy7s4a2bwfeimj7r3b",
+      "handle": "mcuban.bsky.social",
+      "display_name": "Mark Cuban",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:hnm44jsyiinkstigbnzfbmxk",
+      "handle": "instrumenthull.bsky.social",
+      "display_name": "Peter Hull",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:ks3gpa6ftoyaq7hmf6c4qx4c",
+      "handle": "dieworkwear.bsky.social",
+      "display_name": "derek guy",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:rapv4emfzjpfjjozjnlffbpl",
+      "handle": "afhayes.bsky.social",
+      "display_name": "Andrew F. Hayes",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:xqxtxc6ih6rb4jc4rpk7xx4r",
+      "handle": "johnjhorton.bsky.social",
+      "display_name": "John Horton",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:qilhp54onffyhux72f2w3iyf",
+      "handle": "anamartinovici.bsky.social",
+      "display_name": "Ana Martinovici",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:qjwcuyinmiip6mml253qmyvv",
+      "handle": "dyudkin.bsky.social",
+      "display_name": "Daniel Yudkin",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:zkaifix3vninhd3yu2xz3oq5",
+      "handle": "behscientist.bsky.social",
+      "display_name": "Behavioral Scientist",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:egaiys6467ifvb32dfrdqohc",
+      "handle": "lauraewallace.bsky.social",
+      "display_name": "Laura Wallace",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:zuo7lxjpe22jwlsxk4qsp7qt",
+      "handle": "sylviapperry.bsky.social",
+      "display_name": "Sylvia Perry",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:7qyxebrak5vrmu43ttkpj2do",
+      "handle": "davehauser.bsky.social",
+      "display_name": "Dave Hauser",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:e4itbqoxctxwrrfqgs2rauga",
+      "handle": "williambrady.bsky.social",
+      "display_name": "William J. Brady",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:pkju2hlqhqprv7bljjcdlb6e",
+      "handle": "keremoktar.bsky.social",
+      "display_name": "Kerem Oktar",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:tvk4y2kn7pbdlfdeak7zf4be",
+      "handle": "socialbrain.bsky.social",
+      "display_name": "Matthew Lieberman",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:w35qlr3w4e54sfyktswolltn",
+      "handle": "drmeltemyucel.bsky.social",
+      "display_name": "Meltem Yucel",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:6gwj2xhj7wv5ajf7ahfnimjx",
+      "handle": "mhallsworth.bsky.social",
+      "display_name": "Michael Hallsworth",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:dry5hqtv5vdh2gqo6vtq5mqy",
+      "handle": "janagallus.bsky.social",
+      "display_name": "Jana Gallus",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:r2tkwk5eadebpq473sgrq5pr",
+      "handle": "dpdaniels.bsky.social",
+      "display_name": "David P. Daniels",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:zpcvmeogofkhfh5m4ogc5hfe",
+      "handle": "claudiacivai.bsky.social",
+      "display_name": "Claudia Civai",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:sc4ntzydvh3aazerrftbzx77",
+      "handle": "eckelc.bsky.social",
+      "display_name": "Catherine Eckel",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:6acy7de7csdh7cm4tkjpohqp",
+      "handle": "susafiedler.bsky.social",
+      "display_name": "Susa Fiedler",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:vycqkclzijex2rzbxjxp4jst",
+      "handle": "emire.bsky.social",
+      "display_name": "Emir Efendić",
+      "network_score": 13
+    },
+    {
+      "did": "did:plc:mrhovztgvjuiaww5rlp7ppkj",
+      "handle": "nealemahoney.bsky.social",
+      "display_name": "Neale Mahoney",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:2dwmxirmafcqfywrtbjsgbfd",
+      "handle": "jenniferdoleac.bsky.social",
+      "display_name": "Jennifer Doleac",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:3e2nlpen6frfutpnpc5psntt",
+      "handle": "andreyfradkin.bsky.social",
+      "display_name": "Andrey Fradkin",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:ci4a67nyav64howxck7o7kip",
+      "handle": "davegodes.bsky.social",
+      "display_name": "David Godes",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:cld5n2dr75mswbjqbeuzfp6r",
+      "handle": "lkfazio.bsky.social",
+      "display_name": "Lisa Fazio",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:6ckt3lppnuyrvofgjesddwnt",
+      "handle": "xphilosopher.bsky.social",
+      "display_name": "Experimental Philosophy",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:52ecd2d4or75ecwgcuw3cg3u",
+      "handle": "edyong209.bsky.social",
+      "display_name": "Ed Yong",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:mmrb7uikfxgikuuv7idq53r6",
+      "handle": "nourkteily.bsky.social",
+      "display_name": "Nour Kteily",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:g7ghqtv3fwcbrucbnk7ij5hk",
+      "handle": "tobigerstenberg.bsky.social",
+      "display_name": "Tobias Gerstenberg",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:bz2ugujcnhhh7kv2klbkl6r7",
+      "handle": "nadirafaber.bsky.social",
+      "display_name": "Nadira Faber",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:lwjq5qr2t4sscpmip27eoqwo",
+      "handle": "mkonnikova.bsky.social",
+      "display_name": "Maria Konnikova",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:le7k5zwsli5545o5habpizir",
+      "handle": "jinxungoh.bsky.social",
+      "display_name": "Jin X. Goh | 吴晋勋",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:rewwb7v5pgbd22lgh5va2zqe",
+      "handle": "mikedekay.bsky.social",
+      "display_name": "Mike DeKay",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:pzxvo6f6clysxyqicm3y3bfa",
+      "handle": "erikangner.com",
+      "display_name": "Erik Angner",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:pc2fxsxu65kdptnhsmr6ulgp",
+      "handle": "sweiwang.bsky.social",
+      "display_name": "Stephanie Wang",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:xxcvybxq4lzrxvsuskcvnxiq",
+      "handle": "aaronlob.bsky.social",
+      "display_name": "Aaron Lob",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:g472i4ltqk3qxjhrogc3n277",
+      "handle": "joshweller.bsky.social",
+      "display_name": "Joshua Weller",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:2nfcenvo6ywulklkpvhn4rr4",
+      "handle": "martinapocchiari.com",
+      "display_name": "Martina Pocchiari",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:o2v775jkluhnslfnkkv6sacz",
+      "handle": "hansalves.bsky.social",
+      "display_name": "Hans Alves",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:hwjeecj6j33wylzk6vwj6vh6",
+      "handle": "tesary.bsky.social",
+      "display_name": "Tesary Lin",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:dcxavho6ahfyww2ygd6lfsl3",
+      "handle": "drpop.bsky.social",
+      "display_name": "Deidre Popovich",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:ch7tzgmpmxpw2f5ccknru4lk",
+      "handle": "benbushong.com",
+      "display_name": "Ben Bushong",
+      "network_score": 12
+    },
+    {
+      "did": "did:plc:keidxmnn4mnitwyne6c56kje",
+      "handle": "dacemoglumit.bsky.social",
+      "display_name": "Daron Acemoglu",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:dwaduijo6ngdgzmir5vovzrh",
+      "handle": "karaswisher.bsky.social",
+      "display_name": "Kara Swisher",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:5546kbtmfbcecbqnfdski3mp",
+      "handle": "avigoldfarb.bsky.social",
+      "display_name": "Avi Goldfarb",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:37oq46cpxiijfcwom36rs7kk",
+      "handle": "anagantman.bsky.social",
+      "display_name": "ana gantman",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:xdfwfltczcbog3ue3i7nygl3",
+      "handle": "jaricheson.bsky.social",
+      "display_name": "Jennifer Richeson",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:7pxqjrjlbvo3ct7gehyuvev4",
+      "handle": "johnlist.bsky.social",
+      "display_name": "John A. List",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:k7bngs5tysvcg6xt47eeojo4",
+      "handle": "drlarisa.bsky.social",
+      "display_name": "Larisa Heiphetz Solomon",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:ku7v5o3u5qysxdiuu3eigpkw",
+      "handle": "gershbrain.bsky.social",
+      "display_name": "Sam Gershman",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:vl4nh5v7pcgrpzonh6zcbcwk",
+      "handle": "smconstantino.bsky.social",
+      "display_name": "Sara Constantino",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:ofrylttg7qero3jkjdtrs5jj",
+      "handle": "igi.bsky.social",
+      "display_name": "Igor Grossmann, PhD",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:eaue7vouqytk7cbzt3ojx6oj",
+      "handle": "eikofried.bsky.social",
+      "display_name": "Eiko Fried",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:eer6ltwp5etrrsqi6aqityj2",
+      "handle": "rogerthegs.bsky.social",
+      "display_name": "Roger Giner-Sorolla",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:gzvucotqb7rp6y2lxw4cxl7p",
+      "handle": "lakens.bsky.social",
+      "display_name": "Daniel Lakens",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:ap2lhhna44dqmkievt5urw5q",
+      "handle": "dvdolder.bsky.social",
+      "display_name": "Dennie van Dolder",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:jdvjyd6ydzez34s73ewvekvu",
+      "handle": "remylevin.bsky.social",
+      "display_name": "Remy Levin 🌻",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:cyfsihuhqziogky33edvvz7k",
+      "handle": "russpoldrack.org",
+      "display_name": "Russ Poldrack",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:f2i3ofilfiibjkzweklzc3ik",
+      "handle": "itaisher.bsky.social",
+      "display_name": "Itai Sher",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:rxsybxpvx66j55rczg4l5bp5",
+      "handle": "jeanimal.bsky.social",
+      "display_name": "Jean Czerlinski Ortega",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:yeu3wglnh5n2rmcfhikxhcje",
+      "handle": "dtriana.bsky.social",
+      "display_name": "Daniel Triana ",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:3xe3haqhsbg4ep5ejgtb22lo",
+      "handle": "claudenbach.bsky.social",
+      "display_name": "Christine Laudenbach",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:73aicoale2mqwrap63rdzwep",
+      "handle": "scientificdiscovery.dev",
+      "display_name": "Saloni",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:7equuv6hwz7i2m3c2dtuetyn",
+      "handle": "hakeemjefferson.bsky.social",
+      "display_name": "Hakeem Jefferson",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:2b35n6gvs22baktzov7es2xx",
+      "handle": "stefanmeissner.bsky.social",
+      "display_name": "Stefan Meissner",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:fmxgw6zhjx5qtjcukitq6xvj",
+      "handle": "laurakgee.bsky.social",
+      "display_name": "Laura K Gee ",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:dl5wrgqu2qqhmdf3flsylvhc",
+      "handle": "economeager.bsky.social",
+      "display_name": "Rafe Meager (they/them)",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:nvffuxwdpqmp42v7ytav7dh7",
+      "handle": "bretthollenbeck.bsky.social",
+      "display_name": "Brett Hollenbeck",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:vlqkjlmddgbykybecdv7mzxv",
+      "handle": "profericson.bsky.social",
+      "display_name": "Prof Keith Marzilli Ericson",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:xhqatgxbldteh7tutqao4ojc",
+      "handle": "guygrossman.bsky.social",
+      "display_name": "Guy Grossman",
+      "network_score": 11
+    },
+    {
+      "did": "did:plc:6m7rbdgaz5vyg4bnbefi7kh6",
+      "handle": "crampell.bsky.social",
+      "display_name": "Catherine Rampell",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:nblkfzawd42zaxkycspl6ggj",
+      "handle": "jasonfurman.bsky.social",
+      "display_name": "Jason Furman",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:5prledmu36imun2zjc26v5nl",
+      "handle": "mattyglesias.bsky.social",
+      "display_name": "Matthew Yglesias ",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:e62gb2ushvtvjvqcbrxeaw2n",
+      "handle": "chrislhayes.bsky.social",
+      "display_name": "Chris Hayes",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:j72xkqjugohxssycvjja33i2",
+      "handle": "sdpbht.bsky.social",
+      "display_name": "Sudeep Bhatia",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:g6kndyf4qd6rpphttnjev2fz",
+      "handle": "johnjost.bsky.social",
+      "display_name": "John Jost",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:qpsvctsjj4qf7zgiico2jj7z",
+      "handle": "andyluttrell.bsky.social",
+      "display_name": "Andy Luttrell",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:qtgflmocttdp3uhkdywi3jdz",
+      "handle": "guscooney.bsky.social",
+      "display_name": "Gus Cooney",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:kkewik7s5kyjekyp2baqsay2",
+      "handle": "skowroneksam.bsky.social",
+      "display_name": "Sam Skowronek",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:p72jkscm4rt4xuep3lzv6doh",
+      "handle": "melaniemitchell.bsky.social",
+      "display_name": "Melanie Mitchell",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:myqic77tkmdhmaufgkvj43hr",
+      "handle": "kjhealy.co",
+      "display_name": "Kieran Healy",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:iriqg3r7ztl6rxsryw4khz7v",
+      "handle": "dcameron.bsky.social",
+      "display_name": "Daryl Cameron",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:f3fbslfapgsdarnvlknlwykf",
+      "handle": "engelmann.bsky.social",
+      "display_name": "Jan Engelmann",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:rgrtvrwpqyin6z365lx7pr3y",
+      "handle": "jamesheathers.bsky.social",
+      "display_name": "JAMES HEATHERS",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:fdckeb54dn2wh5rwysla7aqc",
+      "handle": "jkflake.bsky.social",
+      "display_name": "JK Flake",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:4t5psdcwfah3klp4uoi562pc",
+      "handle": "lamarpierce.bsky.social",
+      "display_name": "Lamar Pierce",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:cmvhau7mstxzjoqkj5dnnhus",
+      "handle": "arpitrage.bsky.social",
+      "display_name": "Arpit Gupta",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:ztiuiezkm5svidigcsm6arcn",
+      "handle": "olgakos.bsky.social",
+      "display_name": "Olga Kostopoulou",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:4b4wqes6dlp7s4mv3nhq4flf",
+      "handle": "leesplez.bsky.social",
+      "display_name": "Jeff Lees",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:nkee2udfh3mazkqatimusiwm",
+      "handle": "johnholbein1.bsky.social",
+      "display_name": "John Holbein",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:hjkg2igljft73hxw4vwrkfjb",
+      "handle": "guidearamos.bsky.social",
+      "display_name": "Guilherme Ramos",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:dahsiz444iydq76jfsc6rwpo",
+      "handle": "nielsvandeven.bsky.social",
+      "display_name": "Niels van de Ven",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:h4y7tpelenvh6xkaritc5dkp",
+      "handle": "tedmiguel.bsky.social",
+      "display_name": "Ted Miguel",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:gbnaepzuneaxuofkhsnjvs3f",
+      "handle": "talyarkoni.com",
+      "display_name": "tal yarkoni",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:bmlmvmqrskcy4zan6lj7q2kf",
+      "handle": "rfisman.bsky.social",
+      "display_name": "Ray Fisman",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:5pztqvzzqhmfzyrq3qquu5lm",
+      "handle": "alroth.bsky.social",
+      "display_name": "Al Roth",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:77ahy3h7ohelv2jbu5mzemuq",
+      "handle": "lewan.bsky.social",
+      "display_name": "Stephan Lewandowsky",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:zvmxjopbtaelygn733zpv2c3",
+      "handle": "sebastianshorn.bsky.social",
+      "display_name": "Sebastian Horn",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:5iwasrhrfkpzxhhbekgaam3d",
+      "handle": "balerbilgin.bsky.social",
+      "display_name": "Baler Bilgin",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:btuqjrilfffatbvck7xaaasn",
+      "handle": "samulireijula.net",
+      "display_name": "Samuli Reijula",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:ux27wftjvfitnqiapld2ta6z",
+      "handle": "felixchopra.bsky.social",
+      "display_name": "Felix Chopra",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:3isl2z2uevryjddcl5ex3ow5",
+      "handle": "leticiarmicheli.bsky.social",
+      "display_name": "Leticia Micheli",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:ucpyg4kj3u63flqipxjopm4c",
+      "handle": "michaelsen.bsky.social",
+      "display_name": "Patrik Michaelsen",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:hzemux25vjbtwbaowwnfbaxx",
+      "handle": "msamahita.bsky.social",
+      "display_name": "Margaret Samahita",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:eevkdzbubhaugxdzdfsz35xf",
+      "handle": "katringodker.bsky.social",
+      "display_name": "Katrin Gödker",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:wph2m77nb4kru2m5jhic4dt2",
+      "handle": "conradhackett.bsky.social",
+      "display_name": "Conrad Hackett",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:ctsaf66genkz2ofxjw57koep",
+      "handle": "neuroai.bsky.social",
+      "display_name": "Ida Momennejad",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:h3t5rqlvuaorq42yckpijirj",
+      "handle": "katestarbird.bsky.social",
+      "display_name": "Kate Starbird",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:7wlu4wmacoh7jzprfex3ypd3",
+      "handle": "ktsetsos.bsky.social",
+      "display_name": "Konstantinos Tsetsos",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:2rrp7amblhg3xoly5n5huiqv",
+      "handle": "donmoyn.bsky.social",
+      "display_name": "Don Moynihan",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:7mue4ed4dpmi3jnwbpwscqtb",
+      "handle": "steve-tadelis.bsky.social",
+      "display_name": "Steve Tadelis",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:e24qmoouqbvrm7j6sulfuco7",
+      "handle": "arielkalil.bsky.social",
+      "display_name": "Ariel Kalil",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:iz32sf47tvf5rzyjlt3jccqv",
+      "handle": "peterandre.bsky.social",
+      "display_name": "Peter Andre",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:6gs4nrzf7qrlbp3xx6y5j2xf",
+      "handle": "lisaspantig.com",
+      "display_name": "Lisa Spantig",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:6vwezbhj7wwowu4sbur5npjk",
+      "handle": "erictopol.bsky.social",
+      "display_name": "Eric Topol",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:gfuxv7jltiuu5o4zsfse7u5i",
+      "handle": "jasndoc.bsky.social",
+      "display_name": "Jason Doctor",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:mps3znu3vvv44cp2cxggfv72",
+      "handle": "nate-posner.bsky.social",
+      "display_name": "Nate Posner",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:dvqrv64pkrgg3xncnshb6ujl",
+      "handle": "jakereynolds.bsky.social",
+      "display_name": "Jake Reynolds",
+      "network_score": 10
+    },
+    {
+      "did": "did:plc:mzmtoehujifw6wpzlz3hdpni",
+      "handle": "aaronsojourner.org",
+      "display_name": "Aaron Sojourner",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:nkabszsvai75q3hsygqknzzt",
+      "handle": "erikbryn.bsky.social",
+      "display_name": "Erik Brynjolfsson",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:6fkoh6rtakayum25gmhl7uwp",
+      "handle": "goolsbee.bsky.social",
+      "display_name": "Austan Goolsbee",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:ovvxxktnggqglkkwfxdpscf2",
+      "handle": "besttrousers.bsky.social",
+      "display_name": "Matt Darling",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:4xlroewkfws4vnmg3nsp7gdq",
+      "handle": "shoshsegal.bsky.social",
+      "display_name": "Shoshana Segal",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:pmln5wtqhpotbpouik4suyvh",
+      "handle": "dmirny.bsky.social",
+      "display_name": "Daniel Mirny",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:mjl4ny5j2prxukphijrquxq4",
+      "handle": "lianeleeyoung.bsky.social",
+      "display_name": "Liane Young",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:vumzskfjncyfwn3lsprn5fsf",
+      "handle": "zey.bsky.social",
+      "display_name": "zeynep tufekci",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:athozkmjt2lpo3gfkwvz3kze",
+      "handle": "zephoria.bsky.social",
+      "display_name": "danah boyd",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:yy5jieyfjpsugpkxcphmzica",
+      "handle": "casssunstein.bsky.social",
+      "display_name": "",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:bxkspqzn7rrkaelbctqauxis",
+      "handle": "mariogollwitzer.bsky.social",
+      "display_name": "Mario Gollwitzer",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:wstuelx2lh6jpw4qcxktdcpq",
+      "handle": "jimaceverett.bsky.social",
+      "display_name": "Jim AC Everett",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:dpvtxtoku5dbv63xfklj5x52",
+      "handle": "nachristakis.bsky.social",
+      "display_name": "Nicholas A. Christakis",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:jewzg4xrj2zqexfkm36eaxrr",
+      "handle": "nadiabrashier.bsky.social",
+      "display_name": "Nadia Brashier",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:n7dz6yvv3lzp75r5e26jynzh",
+      "handle": "petrhoudek.bsky.social",
+      "display_name": "Petr Houdek",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:v6qwaqo24zfrq5fj7ceibxqk",
+      "handle": "mehr.nz",
+      "display_name": "samuel mehr",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:kkij4bfbznvqomfmzv36ksgw",
+      "handle": "mcxfrank.bsky.social",
+      "display_name": "Mike Frank",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:ko7lrw7bvu6wzuvfwkgrodh2",
+      "handle": "emilynix100.bsky.social",
+      "display_name": "Emily Nix",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:llliloyylzwyg3ib7er5ttwn",
+      "handle": "professorsinan.bsky.social",
+      "display_name": "Sinan Aral",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:flxq4uyjfotciovpw3x3fxnu",
+      "handle": "emollick.bsky.social",
+      "display_name": "Ethan Mollick",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:qkaabdkaef32helggxi5rcoy",
+      "handle": "evanwilhelms.bsky.social",
+      "display_name": "Evan Wilhelms",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:cxs4fg2cnudhktixh2r4zp2w",
+      "handle": "bfasolo.bsky.social",
+      "display_name": "Barbara Fasolo ",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:omk33ps5sigp5netfg5k3u7k",
+      "handle": "caerib.bsky.social",
+      "display_name": "Carlos E Lourenco (Caê)",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:mgd5zc4n6kc7gjypqxikbsuu",
+      "handle": "gordonhodsonphd.bsky.social",
+      "display_name": "Gordon Hodson",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:isf4vaz3jcagfs4xh4qlgkbe",
+      "handle": "andrearobbett.bsky.social",
+      "display_name": "Andrea Robbett",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:zc4ydxm2zncjmjhovfe7bit2",
+      "handle": "bgreiner.bsky.social",
+      "display_name": "Ben Greiner",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:ek4c5cyimpgb4l67fu3lnwcv",
+      "handle": "fialalenka.bsky.social",
+      "display_name": "Lenka Fiala",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:kvcznfzuht3uewgryyi36hrx",
+      "handle": "paolocrosetto.bsky.social",
+      "display_name": "Paolo Crosetto",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:ol3yh55jxpvfu6l32pythj7n",
+      "handle": "steffenaltmann.bsky.social",
+      "display_name": "Steffen Altmann ",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:whekcso6usuxjsxbogcnfzb4",
+      "handle": "chrisblattman.bsky.social",
+      "display_name": "Chris Blattman",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:r4ge6wndzzo63vm2aygwwc25",
+      "handle": "econmill.bsky.social",
+      "display_name": "Wladislaw Mill",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:ccbm4subky5sjwu7k66mdhf2",
+      "handle": "gubri.bsky.social",
+      "display_name": "Guglielmo Briscese",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:75xixksosn6lgcw32cquushe",
+      "handle": "jacasiegel.bsky.social",
+      "display_name": "Jaclyn A. Siegel, PhD",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:lldnefftwlslxv2z7kirghih",
+      "handle": "joshuagrubbsphd.bsky.social",
+      "display_name": "Josh Grubbs",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:bvs2ugw634hxagfzbdoxot6n",
+      "handle": "srossmktg.com",
+      "display_name": "Spencer M Ross",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:gqfvysezplgfae5mgxs7vpgz",
+      "handle": "hoben.bsky.social",
+      "display_name": "Ben Ho",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:tosq3nlm6xtvdufcs34xq34u",
+      "handle": "heidiwilliams.bsky.social",
+      "display_name": "Heidi L. Williams",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:5p7mooqzldsfneewgthnfwz5",
+      "handle": "david-schindler.de",
+      "display_name": "David Schindler ",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:dci5jlffbhbi4ui4inf2wk6i",
+      "handle": "espiers.bsky.social",
+      "display_name": "Elizabeth Spiers",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:cwfz4s5meqvl32lkqykcckgt",
+      "handle": "statmodeling.bsky.social",
+      "display_name": "Andrew Gelman et al.",
+      "network_score": 9
+    },
+    {
+      "did": "did:plc:d7rueyzzhqutzohq3kdcc53r",
+      "handle": "qjeharvard.bsky.social",
+      "display_name": "The Quarterly Journal of Economics",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:orfjnv4sxvbl3jzxq6i6cthl",
+      "handle": "seema.bsky.social",
+      "display_name": "Seema Jayachandran",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:xjc7mkotpenvhh6ffewkdpyn",
+      "handle": "meidastouch.com",
+      "display_name": "MeidasTouch",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:ho34pe25d3ywc6g6vxugre2i",
+      "handle": "jburnmurdoch.ft.com",
+      "display_name": "John Burn-Murdoch",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
+      "handle": "atrupar.com",
+      "display_name": "Aaron Rupar",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:2kf2frdjjsa6f7mvy7vg7jqc",
+      "handle": "profpauwels.bsky.social",
+      "display_name": "Koen Pauwels",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:vt7frin4vrsxx27o3d7vdkym",
+      "handle": "caiowaisman.bsky.social",
+      "display_name": "Caio Waisman",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:prkl6ot2u6qc54niutqyrfr5",
+      "handle": "sendhil.bsky.social",
+      "display_name": "Sendhil Mullainathan",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:bm56iee4tm77oc5fyhyemnwl",
+      "handle": "betsylevyp.bsky.social",
+      "display_name": "Betsy Levy Paluck",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:pm7wrzs27emhva2pq2sdkxdj",
+      "handle": "thaliawheatley.bsky.social",
+      "display_name": "Thalia Wheatley",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:vapzgtob7wqvbh2zvetoygjn",
+      "handle": "akshinabanerjee.bsky.social",
+      "display_name": "Akshina Banerjee",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:so3djgvmkbgrg5ojnla5sy3o",
+      "handle": "soahamb.bsky.social",
+      "display_name": "Soaham Bharti",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:m4vvly6ajcbfbnot3m52pick",
+      "handle": "benedek.bsky.social",
+      "display_name": "Benedek Kurdi",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:kh5jiqjw3qwjb6at7xf2dgmh",
+      "handle": "stillman.bsky.social",
+      "display_name": "Paul Stillman",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:fmdpfk2whzy4teaf2xh2xfdb",
+      "handle": "setayeshradkani.bsky.social",
+      "display_name": "Setayesh Radkani",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:5nypincdldm3joyndnb2kkcb",
+      "handle": "rolandimhoff.bsky.social",
+      "display_name": "Roland Imhoff",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:ljckh5s7a6e4e2rw6ygf2ltr",
+      "handle": "mikeypasek.bsky.social",
+      "display_name": "Mikey Pasek",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:s6qdjdlzjmrjdhecartnl7do",
+      "handle": "tomcostello.bsky.social",
+      "display_name": "Tom Costello",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:5llt5pj7sjira7v5jm3rcv2g",
+      "handle": "tanialombrozo.bsky.social",
+      "display_name": "Tania Lombrozo",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:f53vbt3f7yt5dom4tbcyhojr",
+      "handle": "syeducation.bsky.social",
+      "display_name": "moin syed",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:vm2wnf4mrebeaqbwzfxom5ic",
+      "handle": "page-gould.bsky.social",
+      "display_name": "Elizabeth Page-Gould: Black Lives Matter",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:ymtygmcxw4jqkk67k5s7wb7c",
+      "handle": "dianatamir.bsky.social",
+      "display_name": "Diana Tamir",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:mufxtt4lvdllqmmb5nxkwv2w",
+      "handle": "andrewang.bsky.social",
+      "display_name": "Y. Andre Wang",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:wadfbchvgyngydxdhms5fvq6",
+      "handle": "edhagen.net",
+      "display_name": "Ed Hagen",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:r4r6pybalricew7qva5h7wyr",
+      "handle": "tomerullman.bsky.social",
+      "display_name": "Tomer Ullman",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:jlefyjssc6ajh3d6dfwmh2is",
+      "handle": "dorsaamir.bsky.social",
+      "display_name": "Dorsa Amir",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:i7drecsx5mlt2a2zlayrsprh",
+      "handle": "daviddesteno.bsky.social",
+      "display_name": "David DeSteno",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:6tac5lpzedv6dpcywsd5nb35",
+      "handle": "ilanabrody.bsky.social",
+      "display_name": "Ilana Brody",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:m46zaasijz22bjm5itpizy2d",
+      "handle": "sarangsunder.bsky.social",
+      "display_name": "Sarang Sunder",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:o4efjlwexa7rrn2mcmkvsb65",
+      "handle": "jaredpeterson.bsky.social",
+      "display_name": "Jared Peterson",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:atstgru6qfnt46m4glkdyqxf",
+      "handle": "ernestbaskin.bsky.social",
+      "display_name": "",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:mv5oqnjngz6jqgwiwqsgqtne",
+      "handle": "acohn.bsky.social",
+      "display_name": "Alain Cohn",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:2ihna4vvh2ndpzkvgmnb2p5g",
+      "handle": "umpamdk.bsky.social",
+      "display_name": "Pam Davis-Kean, PhD",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:n2dhkdrcbk4grb6ep3fnoiak",
+      "handle": "causalinf.bsky.social",
+      "display_name": "Scott Cunningham",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:jcats4toei4ybf5ibk3njty3",
+      "handle": "aaup.org",
+      "display_name": "AAUP",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:mdswj45fze7egpbobcyyusp2",
+      "handle": "jcrnews.bsky.social",
+      "display_name": "Journal of Consumer Research",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:bfiewdcm26qhrtdvymrdcriz",
+      "handle": "jessicahullman.bsky.social",
+      "display_name": "Jessica Hullman",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:rut2d4uabw7g2mzm3bnslz3j",
+      "handle": "nielsholtrop.bsky.social",
+      "display_name": "Niels Holtrop",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:re6yb3xi5hbmsvpe47nxj5r3",
+      "handle": "davidkstrr.bsky.social",
+      "display_name": "David Kusterer",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:4te5kbdeagugpt6spszb2bm4",
+      "handle": "boonhankoh.bsky.social",
+      "display_name": "Boon Han Koh",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:fo4obbij7ij62okzbws537jw",
+      "handle": "dkuebler.bsky.social",
+      "display_name": "Dorothea Kübler",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:swpsg3jw6o3gcxsn3hddckjr",
+      "handle": "joelvdweele.bsky.social",
+      "display_name": "Joel van der Weele",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:hp6ep3alvinarslm65jpkztj",
+      "handle": "katharinabruett.bsky.social",
+      "display_name": "Katharina Bruett",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:ep6amtrg5d5b7a3tv2qkuu2m",
+      "handle": "kkalayci.bsky.social",
+      "display_name": "Kenan Kalayci",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:i5j75qqzzq3lgejncmqziv4x",
+      "handle": "pablosotomota.bsky.social",
+      "display_name": "Pablo Soto-Mota",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:tvxtx3b3tmon2kifvhnjzlas",
+      "handle": "timkaiser.bsky.social",
+      "display_name": "Tim Kaiser",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:3spqcgul2gsxlzmo2sw53qn6",
+      "handle": "zwojo.bsky.social",
+      "display_name": "Zachary Wojtowicz",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:jhty2lsmywbtjbyro4kgq3j5",
+      "handle": "dietmarfehr.bsky.social",
+      "display_name": "Dietmar Fehr",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:efopkricnjom2wlhhibnlzzn",
+      "handle": "henninghermes.com",
+      "display_name": "Henning Hermes",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:ekjo75j2touqg5dskb26ughm",
+      "handle": "mayasen.bsky.social",
+      "display_name": "Maya Sen",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:xsoucnnpbf4jehj7iju62p7g",
+      "handle": "pewresearch.org",
+      "display_name": "Pew Research Center",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:3uxtayk6yhkh4isderiz7qby",
+      "handle": "juliencloarec.com",
+      "display_name": "Julien Cloarec",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:yha64k6gbnmndrc2u6bxpmzo",
+      "handle": "devezer.bsky.social",
+      "display_name": "Berna Devezer",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:76omojivtc5l5gkembyamhy4",
+      "handle": "albertsonb2.bsky.social",
+      "display_name": "Bethany Albertson",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:cz73r7iyiqn26upot4jtjdhk",
+      "handle": "xkcd.com",
+      "display_name": "Randall Munroe",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:gfgb4zynhg5tgum3ql4zd3q4",
+      "handle": "raffasadun.bsky.social",
+      "display_name": "Raffaella Sadun",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:r4yfsknsbbdgouo5gpo3je6e",
+      "handle": "proflivingston.bsky.social",
+      "display_name": "Jeff Livingston",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:rsbjsbyes3o5rpbps3ofm64s",
+      "handle": "ethanbdm.bsky.social",
+      "display_name": "Ethan Bueno de Mesquita",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:s7cid262vroc7iscseahbkgx",
+      "handle": "matthewgnagler.bsky.social",
+      "display_name": "Matthew G Nagler",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:dsajqnykifwn24zeeszcdx6c",
+      "handle": "handle.invalid",
+      "display_name": "Joshua Goodman",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:vawlqxvxfnakh6oofgxshkfg",
+      "handle": "joshgans.bsky.social",
+      "display_name": "Joshua Gans",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:v2lx6ewsnvv2pgbaa5rbcek2",
+      "handle": "jmwooldridge.bsky.social",
+      "display_name": "Jeffrey Wooldridge",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:k2d7ig7ois3vx2c5z32zlq3g",
+      "handle": "thomasmeissner.bsky.social",
+      "display_name": "Thomas Meissner",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:e3nlo75ohfiljwqik2wax7lt",
+      "handle": "kirabojackson.bsky.social",
+      "display_name": "C. Kirabo Jackson ",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:5c6cw3veuqruljoy5ahzerfx",
+      "handle": "barackobama.bsky.social",
+      "display_name": "Barack Obama",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:j6feetykoa64h334gt4qhnys",
+      "handle": "camelia-kuhnen.bsky.social",
+      "display_name": "Camelia Kuhnen",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:oky5czdrnfjpqslsw2a5iclo",
+      "handle": "jay.bsky.team",
+      "display_name": "Jay 🦋",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:lxwjjkdqtjl3whe2n6c6ydap",
+      "handle": "undercoverhist.bsky.social",
+      "display_name": "",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh",
+      "handle": "npr.org",
+      "display_name": "NPR",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:k4jt6heuiamymgi46yeuxtpt",
+      "handle": "propublica.org",
+      "display_name": "ProPublica",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:fi7n3ciupc4o3iktnd4nenon",
+      "handle": "retractionwatch.com",
+      "display_name": "Retraction Watch",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:inz4fkbbp7ms3ixufw6xuvdi",
+      "handle": "wired.com",
+      "display_name": "WIRED",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:vreczvr65azmzekp7pzxbkzx",
+      "handle": "felixjannitsch.bsky.social",
+      "display_name": "Felix Jan Nitsch",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:djic4mfzvzazkogffutngai4",
+      "handle": "mattmeist.bsky.social",
+      "display_name": "Matt Meister",
+      "network_score": 8
+    },
+    {
+      "did": "did:plc:7prh6raya2ntwnpyzte5u5hc",
+      "handle": "juddlegum.bsky.social",
+      "display_name": "Judd Legum",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:t6ubj2wlhc34awzcymh3qpur",
+      "handle": "ronfilipkowski.bsky.social",
+      "display_name": "Ron Filipkowski",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:s3qqhxyy4vvpfx5js7a37nsm",
+      "handle": "lkatz42.bsky.social",
+      "display_name": "Lawrence Katz",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:4dmngv2nlzbdtjzetpbfsuw6",
+      "handle": "ourworldindata.org",
+      "display_name": "Our World in Data",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:ggxmdwtojxh2poo2kmjsyr4p",
+      "handle": "braddelong.bsky.social",
+      "display_name": "Brad DeLong",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:zedzjdeavmz6bhrj6jpr2fyc",
+      "handle": "arindube.bsky.social",
+      "display_name": "Arin Dube",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:iu4j537hox5huj4bwnwgub4z",
+      "handle": "acyn.bsky.social",
+      "display_name": "Acyn",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:b2yh7pcbcq6nh4lhpueffwp2",
+      "handle": "owasow.bsky.social",
+      "display_name": "Omar Wasow",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:djdxfzbvmvjmjlj3qu32uy2i",
+      "handle": "daveweigel.bsky.social",
+      "display_name": "Dave Weigel",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:c2qmr4su6oqtvkh5u2jbgcyn",
+      "handle": "drmaximilian.bsky.social",
+      "display_name": "Maximilian Gerrath",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:oaofs2gceox2vnsc7673ofx3",
+      "handle": "barbarabiasi.com",
+      "display_name": "Barbara Biasi",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:dhkmbru2x57gpmzwufafq6ef",
+      "handle": "dannagal.bsky.social",
+      "display_name": "Dannagal Goldthwaite Young",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:bjqex7kzrew77ospa5hmf4u6",
+      "handle": "yenakim.bsky.social",
+      "display_name": "Yena",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:pjs26mlvz72l3ak4hv4lhemj",
+      "handle": "dunnhappylab.bsky.social",
+      "display_name": "Elizabeth Dunn",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:42h36rbzrhg6m2b27rlclcs4",
+      "handle": "nofarduani.bsky.social",
+      "display_name": "",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:k3fgjtb4ooplcsfo5wh3j574",
+      "handle": "benmtappin.bsky.social",
+      "display_name": "Ben Tappin",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:c2mjfv2a7judclufinscuyid",
+      "handle": "yann-lecun.bsky.social",
+      "display_name": "Yann LeCun",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:5ddwdsmbgfp6mxkt3pcnyrky",
+      "handle": "azimshariff.bsky.social",
+      "display_name": "Azim Shariff",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:bt4eno63kd5uttdozhexncs6",
+      "handle": "kevinzollman.com",
+      "display_name": "Kevin Zollman",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:lafbr3dznxdyvgup2umwssht",
+      "handle": "anneapplebaum.bsky.social",
+      "display_name": "Anne Applebaum",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:oqr5mp25r7z3vfr3igeerxbw",
+      "handle": "mollyjongfast.bsky.social",
+      "display_name": "Molly Jong-Fast",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:nyxviptfyic2lvuorkr5yy3y",
+      "handle": "theatlantic.com",
+      "display_name": "The Atlantic",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:ua7v7oruagwntb6l4szhik5m",
+      "handle": "laurahelmuth.bsky.social",
+      "display_name": "Laura Helmuth",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:agfhb445n6ars2gzeh32t2ed",
+      "handle": "hugoreasoning.bsky.social",
+      "display_name": "Hugo Mercier",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:bk3a67p65tho43qmtvkuaxzc",
+      "handle": "dedreu.bsky.social",
+      "display_name": "Carsten De Dreu",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:xqrqlxsfingcrocs7dut7rav",
+      "handle": "carlzimmer.com",
+      "display_name": "Carl Zimmer",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:b434qj7zkl6lfuni7lzvtkqy",
+      "handle": "heatherurry.bsky.social",
+      "display_name": "Heather Urry",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:gekbyhkcar2fyfhy65hqntpb",
+      "handle": "fernandaedi.bsky.social",
+      "display_name": "Fernanda Ferreira",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:omctvc5mr6dqshk4qjmraaib",
+      "handle": "emoryrchrdsn.bsky.social",
+      "display_name": "Emory Richardson",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:yuagevizig6znxw6aw4prjnl",
+      "handle": "profsimons.bsky.social",
+      "display_name": "Daniel Simons",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:x4ia2dozsot3ded54irjgfj2",
+      "handle": "chrismartin76.bsky.social",
+      "display_name": "Chris Martin",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:fmphjantzvygkqw4perwv4nb",
+      "handle": "sbmost.bsky.social",
+      "display_name": "Steve Most",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:oc2m4xmlhib6buo57w5ekc32",
+      "handle": "alineholzwarth.bsky.social",
+      "display_name": "Aline Holzwarth",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:hxjt4arn4jpbe6gi6mdinkm4",
+      "handle": "psmaldino.bsky.social",
+      "display_name": "Paul Smaldino",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:c7uptfa3ug4fu5qex3yicn7q",
+      "handle": "kewang.bsky.social",
+      "display_name": "Ke Wang",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:243pephxvl7gp7kjhtdmv3zc",
+      "handle": "levysam.bsky.social",
+      "display_name": "Sam Levy",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:i2dci5qpygj36r5j6sbfxp5y",
+      "handle": "adrianrcamilleri.bsky.social",
+      "display_name": "Adrian Camilleri",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:pvqthxl2e7rg6lrvvjujnajy",
+      "handle": "charliedorison.bsky.social",
+      "display_name": "Charlie Dorison",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:ninbjx3lzp5dkbo5xvfhvm5x",
+      "handle": "dcarvajalz.bsky.social",
+      "display_name": "Daniel Carvajal",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:y7kdroojrfzj7neantw7bjvb",
+      "handle": "gregoryrsl.bsky.social",
+      "display_name": "Gregory (GR) Samanez-Larkin",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:psqkqzjz6a3ftcuqtl6qi26u",
+      "handle": "profsanderlinden.bsky.social",
+      "display_name": "Sander van der Linden",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:dzodyq2xcmhiqit32dllewdn",
+      "handle": "erichehman.bsky.social",
+      "display_name": "Eric Hehman",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:dxpfpbs66nhoxk3jeg67s5zu",
+      "handle": "emmatempleton.bsky.social",
+      "display_name": "Emma Templeton",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:tjzrd6eivr6s725zxl6iti2y",
+      "handle": "arechar.bsky.social",
+      "display_name": "Antonio A. Aréchar",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:gf46djoqosh5c4c5ykzubrob",
+      "handle": "aziegler.bsky.social",
+      "display_name": "Andreas Ziegler",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:ukwpzexuawvrflatlyizx4ug",
+      "handle": "benleoecon.bsky.social",
+      "display_name": "Ben Grodeck🔸",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:tbwarpfg2uvqtxjjjkyaarqd",
+      "handle": "benlockwood.com",
+      "display_name": "Ben Lockwood",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:hr2gjxg456wxg5tgxzzqw7vo",
+      "handle": "christianbiener.com",
+      "display_name": "Christian Biener",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:krwyzfq546rd3pp4vaicc4a5",
+      "handle": "dfstone.bsky.social",
+      "display_name": "daniel f stone",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:e2yiulmadhjtibsprrbr6vwa",
+      "handle": "econprachi.bsky.social",
+      "display_name": "Prachi Jain",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:igrjp3ukjbwczjhgfihdb254",
+      "handle": "johannakokot.bsky.social",
+      "display_name": "Johanna Kokot",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:2alpu5xdpdwzfg7cgekdnlav",
+      "handle": "jonasradbruch.bsky.social",
+      "display_name": "Jonas Radbruch",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:vy5otpki6sevh2aqavqqg5e5",
+      "handle": "jorgeapenas.bsky.social",
+      "display_name": "Jorge Peña",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:5wgfatpwuiwa7hikvsfs6ty6",
+      "handle": "kaibarron.bsky.social",
+      "display_name": "Kai Barron",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:cbtr7cxafohnio7dgpgx4sx2",
+      "handle": "mkasper.bsky.social",
+      "display_name": "Matthias Kasper",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:rlka7jp4jghxye2coac5aj2u",
+      "handle": "tobiaspreis.com",
+      "display_name": "Tobias Preis",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:akb3ufmju2m4nwtdx46e4s45",
+      "handle": "valeriaburdea.bsky.social",
+      "display_name": "Valeria Burdea",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:lqud5bfhvkkvckdpfbm5er2q",
+      "handle": "vliek.bsky.social",
+      "display_name": "Michael Vliek",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:2ngrrw5xnnliu44dr3piatlp",
+      "handle": "aalexee.bsky.social",
+      "display_name": "Alex Alekseev",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:h3imi5zmcoqinwouamcnuh7m",
+      "handle": "randomwalker.bsky.social",
+      "display_name": "Arvind Narayanan",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:aeug3w4mdhnc2wv73hmrh36v",
+      "handle": "emilymbender.bsky.social",
+      "display_name": "Emily M. Bender",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:32hbjy33bihy33kxvehydbxn",
+      "handle": "epiellie.bsky.social",
+      "display_name": "Dr Ellie Murray, ScD",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:zst4nglpxrrvfngsnxgtigwu",
+      "handle": "kris-inwood.bsky.social",
+      "display_name": "Kris Inwood",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:tpjypws5r3t3xvjqswqnxnf6",
+      "handle": "rossdahlke.bsky.social",
+      "display_name": "Ross Dahlke",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:a2yrg2rsygxy3jwa7oaf2tk5",
+      "handle": "sebastianjgoerg.bsky.social",
+      "display_name": "Sebastian J. Goerg",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:nlwyvevhm4cbcp6u62g3ek4w",
+      "handle": "richpatterson.bsky.social",
+      "display_name": "Rich Patterson",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:ho22o3jwfn4k7diklsrfnazt",
+      "handle": "dsquintana.bsky.social",
+      "display_name": "Dan Quintana",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:bchdzdpkkxtonjc2cwc5d47z",
+      "handle": "tderyugina.bsky.social",
+      "display_name": "Tatyana Deryugina",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:zjpgsildah6543eby43eoeyl",
+      "handle": "vicbar.bsky.social",
+      "display_name": "Victoria Baranov",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:lxpncqoc3y7sauzo6usfsnmt",
+      "handle": "asifamajid.bsky.social",
+      "display_name": "Asifa Majid",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:mv7m5ukmki7jvwowpcng2bxy",
+      "handle": "chrispps.bsky.social",
+      "display_name": "[C][M][F]",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:fypic56bsigxiwxkrzcgcoxy",
+      "handle": "jenikubota.bsky.social",
+      "display_name": "Jeni Kubota",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:xdfzimryz2e5kkczbbuaex5t",
+      "handle": "aecoppock.bsky.social",
+      "display_name": "Alex Coppock",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:gdskb6wko44n4dwpdoaomynw",
+      "handle": "lukestein.com",
+      "display_name": "⑆Luke Stein⑈",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:f25urs5h4nwirjaukyucb74q",
+      "handle": "shoshievass.bsky.social",
+      "display_name": "Shosh Vasserman",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:2rbahqy4tyostvshkqjhab64",
+      "handle": "nickchk.com",
+      "display_name": "Nick Huntington-Klein",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:wnq4hzxemwhhomcebx7tm6ac",
+      "handle": "jondequidt.bsky.social",
+      "display_name": "Jon de Quidt",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:zxlakta6akb7ug32pxrzddlz",
+      "handle": "seanjtaylor.com",
+      "display_name": "Sean J Taylor",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:xe5mf3rqicjqibarpwnh55xa",
+      "handle": "wwwojtekk.bsky.social",
+      "display_name": "Wojtek Kopczuk",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:gs3fimv2jnbfqble7vlaf2hp",
+      "handle": "yasirkhan.bsky.social",
+      "display_name": "Yasir Khan",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:u45rbbgugqsil5lwxuv2oy5f",
+      "handle": "jrothst.bsky.social",
+      "display_name": "Jesse Rothstein",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:lygvhzkij4gqye7cxf6bi7yl",
+      "handle": "gaborbekes.bsky.social",
+      "display_name": "Gábor Békés",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:m7qwjxizsyrzasbdeo2cjxia",
+      "handle": "akraft.bsky.social",
+      "display_name": "Andreas Kraft",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:2huq2ljwbadxz4rikseuegdi",
+      "handle": "leorhackel.bsky.social",
+      "display_name": "Leor Hackel",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:eiherag462k2eiugkjtnsb3b",
+      "handle": "chrisoveis.bsky.social",
+      "display_name": "Christopher Oveis",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:4r6utvvtneqvydihehdagbzf",
+      "handle": "steverathje.bsky.social",
+      "display_name": "Steve Rathje",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:62xovervv3f6lhwmxdhyezeb",
+      "handle": "cconrymurray.bsky.social",
+      "display_name": "Clare Conry-Murray, Ph.D.",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:iwemdapmc67nxurxr7y4ntjn",
+      "handle": "davidamodio.bsky.social",
+      "display_name": "David Amodio",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:uzwfwiumelnfrrdh5skznllf",
+      "handle": "pauleastwick.bsky.social",
+      "display_name": "Paul Eastwick",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:e5bl34y4m4zap3g6zg2wxpze",
+      "handle": "profgalloway.com",
+      "display_name": "Scott Galloway",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:k5nskatzhyxersjilvtnz4lh",
+      "handle": "washingtonpost.com",
+      "display_name": "The Washington Post",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:tk4bbxmc3xei42bqdpydqrhh",
+      "handle": "imarinescu.bsky.social",
+      "display_name": "Ioana Marinescu",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:evmr45lgn6iuneqbxqjne7oy",
+      "handle": "handle.invalid",
+      "display_name": "",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:zotqcsiyehgyksuxgfehiv6z",
+      "handle": "thepeoplelab.bsky.social",
+      "display_name": "The People Lab",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:hitlbvmszoroqqz26ebc52dk",
+      "handle": "drjanemiller.bsky.social",
+      "display_name": "Jane Elizabeth Miller",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:ngiusdsidn6wf47skjyozjkt",
+      "handle": "lizneeley.bsky.social",
+      "display_name": "Liz Neeley",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:h7gueruawstfgefaykvail5e",
+      "handle": "psychscience.bsky.social",
+      "display_name": "Association for Psychological Science",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:vgxc4btw2vb233xdbybpfv4h",
+      "handle": "kcarman.bsky.social",
+      "display_name": "Katherine Carman",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:5bnbgj7gwebt6hhub4pa5c7n",
+      "handle": "noupside.bsky.social",
+      "display_name": "Renee DiResta",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:7577cxzvwzbvlgl4nuytagwb",
+      "handle": "grushkay.bsky.social",
+      "display_name": "Yael Grushka-Cockayne",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:lt5beindgnrxtqsix7ond7oy",
+      "handle": "sjkobayashi.bsky.social",
+      "display_name": "Shunto J. Kobayashi",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:2vjak2r3o7gsbcfvxbnm4wvf",
+      "handle": "harrydcoulson.bsky.social",
+      "display_name": "Harry D. Coulson",
+      "network_score": 7
+    },
+    {
+      "did": "did:plc:tg5hb5vdxbu6lf4qrtiriqmr",
+      "handle": "aeajournals.bsky.social",
+      "display_name": "AEA Journals",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:tbqadnqynbabtksi7wk432ft",
+      "handle": "jpolecon.bsky.social",
+      "display_name": "Journal of Political Economy",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:bhrklfa3utdi5vvs62uf2zz2",
+      "handle": "ernietedeschi.bsky.social",
+      "display_name": "Ernie Tedeschi",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:rbffgd2zo6r7rmnklo2nlyy5",
+      "handle": "josephpolitano.bsky.social",
+      "display_name": "Joey Politano🏳️‍🌈",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:w2jujqedsm6kqfamnhzlml6b",
+      "handle": "jdcmedlock.bsky.social",
+      "display_name": "James Medlock",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:sgti3jsgu3luif24tokvth3a",
+      "handle": "joshtpm.bsky.social",
+      "display_name": "Josh Marshall",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:e7m4hj4dx6zm52ieyzvpgvmn",
+      "handle": "ivanwerning.bsky.social",
+      "display_name": "Ivan Werning",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:a3h6mkohqeiu6xl4fnrwuk4t",
+      "handle": "himself.bsky.social",
+      "display_name": "Henry Farrell",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:yjxfamkyl2m372ct4behbnwh",
+      "handle": "pedrosantanna.bsky.social",
+      "display_name": "Pedro Sant’Anna",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ynnkdfmhw2fiutwaak4p5wtp",
+      "handle": "jondr44.bsky.social",
+      "display_name": "Jonathan Roth",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:7y5a4oj3u6gjbvkomxmakr4m",
+      "handle": "stephsmithphd.bsky.social",
+      "display_name": "Steph Smith",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:dfkie5u3ghf3rvedrxplux72",
+      "handle": "lisawilliams.bsky.social",
+      "display_name": "A/Prof Lisa A. Williams",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:xb6blzn2dtidkqje3qv4bhtb",
+      "handle": "peez.bsky.social",
+      "display_name": "David Pizarro",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:xsvfhbvi6jsvcdfztqptt7kg",
+      "handle": "willgervais.com",
+      "display_name": "Will Gervais",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:pwjplfsc5wpbzwntczvsk6g2",
+      "handle": "shannimcg.bsky.social",
+      "display_name": "Shannon McGregor, PhD",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:xth6zz4kabl7viw3d4hej7iz",
+      "handle": "yinsiyuan.bsky.social",
+      "display_name": "Siyuan Yin",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ndfpiyjsx2kvp3mpdtjmadrw",
+      "handle": "gbw.bsky.social",
+      "display_name": "George Wu",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:2cl4cmqrbb2lucwi2cmoqef3",
+      "handle": "andreadittmann.bsky.social",
+      "display_name": "Andrea Dittmann",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:f72v4cbm7iq4vtyexwpcbpbx",
+      "handle": "chicagoboothreview.bsky.social",
+      "display_name": "Chicago Booth Review",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:e2pniwiih2d4qbswmmrtmcpl",
+      "handle": "zberry.bsky.social",
+      "display_name": "Zachariah Berry",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:xzbnugu7qlq3vdt6o3p6lz3i",
+      "handle": "rdhawkins.bsky.social",
+      "display_name": "Robert Hawkins",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ly2hvicahwsghgmxi6yl2e2w",
+      "handle": "madalina.bsky.social",
+      "display_name": "Madalina Vlasceanu, PhD",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:yrexawdsyp62qzz2gautrnhp",
+      "handle": "axburg.bsky.social",
+      "display_name": "Axel Burger",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:od35q4sxvh2yhz5lvx6tqvff",
+      "handle": "jowylie.bsky.social",
+      "display_name": "Jordan Wylie",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:k3372oghw4wvnonqpvgbygae",
+      "handle": "chazfirestone.bsky.social",
+      "display_name": "Chaz Firestone",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:l6sfrykbmehr727cie6nc5g6",
+      "handle": "iamlindachang.bsky.social",
+      "display_name": "Linda Chang",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:kynaetyuzsp46xejc6mzpjle",
+      "handle": "alexh.bsky.social",
+      "display_name": "Alex Holcombe",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:i646r2zmi64it67f5b5hbsu6",
+      "handle": "bxjaeger.bsky.social",
+      "display_name": "Bastian Jaeger",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:yn4kts2w56uzifprfr7dhsx6",
+      "handle": "ebonawitz.bsky.social",
+      "display_name": "Elizabeth Bonawitz ",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:o4leanhr6doxmo5fgp7u7rsm",
+      "handle": "cogscisociety.bsky.social",
+      "display_name": "Cognitive Science Society",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:24ngrqljhck7hpvbgrg7a23k",
+      "handle": "irisvanrooij.bsky.social",
+      "display_name": "Iris van Rooij 💭",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:uslnog3pepzgfdwwmtpkqamv",
+      "handle": "mohammadatari.bsky.social",
+      "display_name": "Mohammad Atari",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:owp5r5uguka6ia63y3xrhskw",
+      "handle": "lindseypowell.bsky.social",
+      "display_name": "Lindsey Powell",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:rogqxhzq6vy54nbuy4n6rwyd",
+      "handle": "pbump.com",
+      "display_name": "Philip Bump",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:5teacbkgrgyiydupyz5e7npy",
+      "handle": "markthornton.bsky.social",
+      "display_name": "Mark Thornton",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:4m2zif5cees6ktgk3ismb5dm",
+      "handle": "actlab.bsky.social",
+      "display_name": "Sam McDougle",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:4lg4crzflglfkhddlbk4o4b3",
+      "handle": "handle.invalid",
+      "display_name": "",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:h5zkfkc35wkb53udnemrica5",
+      "handle": "olufemiotaiwo.bsky.social",
+      "display_name": "Olúfẹ́mi O. Táíwò",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+      "handle": "jamellebouie.net",
+      "display_name": "jamelle",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:onlel4kka5n3hc5r2jaoprw3",
+      "handle": "noranewcombe.bsky.social",
+      "display_name": "Nora Newcombe",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:zidlqyldy5mff4j7vjdakjsb",
+      "handle": "levelsof.bsky.social",
+      "display_name": "Melissa Kibbe",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:yo5zwykqx4v6nkbridm2hmbx",
+      "handle": "jeremyginges.bsky.social",
+      "display_name": "Jeremy Ginges",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ksckcx2deluftk5prglmsbu7",
+      "handle": "felipedebrigard.bsky.social",
+      "display_name": "Felipe De Brigard",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:zarzsag6d22seamcg5e5o7b6",
+      "handle": "ariellakristal.bsky.social",
+      "display_name": "",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:rd4yztbbexvuwkgsxeoblzfa",
+      "handle": "isabelleengeler.bsky.social",
+      "display_name": "Isabelle Engeler",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ndyvww47carwuj7hbp4l6flw",
+      "handle": "erezyoeli.bsky.social",
+      "display_name": "Erez Yoeli",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:2moaxuknye3nnt7566ytv7dq",
+      "handle": "katiemehr.bsky.social",
+      "display_name": "Katie Mehr",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:lmio4tnnguoezzqpnry7o5w3",
+      "handle": "ananyasen.bsky.social",
+      "display_name": "Ananya Sen",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:t6skdpiykdyjukc6jin2z4rb",
+      "handle": "ulrichschimmack.bsky.social",
+      "display_name": "👊 Ulrich Schimmack 👊💥 ❤️ 🇨🇦 🇪🇺 🇺🇦  👎🇺🇲",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:dp3cimn4smi2cckkkvxbosby",
+      "handle": "lisev.bsky.social",
+      "display_name": "Lise Vesterlund",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:b2l2eb5r5cggrmqmoohzqulq",
+      "handle": "nuritnobel.bsky.social",
+      "display_name": "",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:wovppqyffukoksmwn67f47zx",
+      "handle": "sebastiansadowski.bsky.social",
+      "display_name": "Sebastian Sadowski",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:b3of6kej2g23caiy2vka745w",
+      "handle": "alicejlee.bsky.social",
+      "display_name": "Alice Lee",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ofwg64mbej5dbdwxlrzfksxp",
+      "handle": "steamtraen.eu",
+      "display_name": "Nick Brown",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:rlc2nd2mxtwqujrp7urvkolc",
+      "handle": "aaronjfisher.bsky.social",
+      "display_name": "Aaron Fisher",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:bss3h4l7qoh7w7mvsldejn6w",
+      "handle": "psychonomicsociety.bsky.social",
+      "display_name": "Psychonomic Society",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:2dspniebk3n22k2hun35gqnl",
+      "handle": "ddpace.bsky.social",
+      "display_name": "Davide Pace",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ciad35edyukdmw5t25zwjsw5",
+      "handle": "gyulaseres.bsky.social",
+      "display_name": "Gyula Seres",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:pfynqtne5sft6wuv67ujgmms",
+      "handle": "murielniederle.bsky.social",
+      "display_name": "Muriel Niederle",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:7224swdl7qjmc4kgufzg7vft",
+      "handle": "davidalmog.bsky.social",
+      "display_name": "David Almog",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:nnqp24w24etcuazqmdlm2kfu",
+      "handle": "danilaserra-eco.bsky.social",
+      "display_name": "Danila Serra",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:x6tw6u4v3feioz3kpav6kkzc",
+      "handle": "ziliewa.bsky.social",
+      "display_name": "Zwetelina Iliewa",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:3ygxpt6h2b4yywrgvvczj757",
+      "handle": "carowiertz.bsky.social",
+      "display_name": "Caroline Wiertz",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:3schh65baq7uo3tzcxk5h5jk",
+      "handle": "alisonjoubert.bsky.social",
+      "display_name": "Alison M. Joubert",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:btjthlogjplqbluosiutofb2",
+      "handle": "shellkryan.bsky.social",
+      "display_name": "Prof Michelle Ryan",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:qkmhsehpsq2dszvdwglwofs3",
+      "handle": "reimtime.bsky.social",
+      "display_name": "Nils Reimer",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:txfrjilh5c3ohp537cgadol5",
+      "handle": "jwsherman.bsky.social",
+      "display_name": "Jeff Sherman",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ff3ajefy5soehzgccqqud6i4",
+      "handle": "akfetterman.bsky.social",
+      "display_name": "Adam K. Fetterman",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:w6ujs2eavhj4tjuaplot2in2",
+      "handle": "tiffanyito.bsky.social",
+      "display_name": "Tiffany Ito",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:rehzeuqlynutdq325e2xfync",
+      "handle": "williammeese.bsky.social",
+      "display_name": "William Meese",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:cf4c2hcftdrpyvqilrqu3pne",
+      "handle": "jordanaxt.bsky.social",
+      "display_name": "Jordan Axt",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:fvl6aupvj3hmw2aiipb6bn6t",
+      "handle": "nivreggev.bsky.social",
+      "display_name": "Niv Reggev ניב רגב نيڤ ريچيڤ",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:rmggdzbjeh4s4f6o7rmoubq2",
+      "handle": "almogsi.bsky.social",
+      "display_name": "Almog Simchon",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:v3zvcol7seefrq3odj2kbcp6",
+      "handle": "annaropp.bsky.social",
+      "display_name": "Anna Ropp",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:3tz4pkwevelsj4eckkrhnri3",
+      "handle": "anatperry.bsky.social",
+      "display_name": "Anat Perry",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:zwg77gzsbpvlwpamquwofe7o",
+      "handle": "spspnews.bsky.social",
+      "display_name": "Society for Personality and Social Psychology",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:5w2so4k3u7z6ksokbw3fxpen",
+      "handle": "mircotonin.bsky.social",
+      "display_name": "Mirco Tonin",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:nbtfbzfufuqyjguvjmytcgbo",
+      "handle": "absidd.bsky.social",
+      "display_name": "Abu Siddique",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:7awnkgfdr7oa2qabjgqebcpr",
+      "handle": "flxhlzmstr.bsky.social",
+      "display_name": "Felix Holzmeister",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:eck3ein7jely4nplhu4tmgrc",
+      "handle": "hmb2829.bsky.social",
+      "display_name": "Hamideh Mohtashami Borzadaran",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:irddckxmihh37vzi5jp6abrd",
+      "handle": "jensrommel.bsky.social",
+      "display_name": "Jens Rommel",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ehk7qrtppnvtsysivsla7w3h",
+      "handle": "jmagnani.bsky.social",
+      "display_name": "Jacopo Magnani",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ubvgrl672hcwp5vztgylrbn7",
+      "handle": "johanneswohlfart.bsky.social",
+      "display_name": "Johannes Wohlfart",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:wwyk6fomwejke6anchkwc2mf",
+      "handle": "jonathanstaebler.bsky.social",
+      "display_name": "Jonathan Stäbler",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:xp3kcflgp3loytnnux7gglw2",
+      "handle": "jsch.bsky.social",
+      "display_name": "Jan Schmitz ",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ekg5amtkbacfsy4bhitk3fte",
+      "handle": "lubomircingl.bsky.social",
+      "display_name": "Lubomir Cingl",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:nfaq42fubuleumtv27zkdnve",
+      "handle": "menuschkhadjavi.bsky.social",
+      "display_name": "Menusch Khadjavi ",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:imjxwzmagg7wybxxmpvjtott",
+      "handle": "mikeshor.com",
+      "display_name": "Mike Shor",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:yyfpvhtpgfa3eu2jronentqk",
+      "handle": "milosfisar.bsky.social",
+      "display_name": "Miloš Fišar",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:npqacjwpvfapcalo3xj37zgi",
+      "handle": "mmglz.bsky.social",
+      "display_name": "Matteo M Galizzi",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:5o5c6udpduihm2jzier7e6kd",
+      "handle": "moumitadeb.bsky.social",
+      "display_name": "Moumita Deb",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:c3skucsoxlxpxzqkk6mvdgtz",
+      "handle": "olalandersson.bsky.social",
+      "display_name": "Ola Andersson",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:cpzgfwxlyqbkmc5onuqylmml",
+      "handle": "olya02.bsky.social",
+      "display_name": "Olga Rud",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:2twmjc72vni7codlyt5kjzuf",
+      "handle": "pauschae.bsky.social",
+      "display_name": "Paul Schaefer",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:2wqtkpy6aaxchqgaa3tuvvtc",
+      "handle": "sakibanwar.bsky.social",
+      "display_name": "Sakib Anwar",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ruryi5v7jbdiz3o4cas65mnr",
+      "handle": "stangenberg.bsky.social",
+      "display_name": "Lennart Stangenberg",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:o3t6dcs26hi77dm2yxcetyms",
+      "handle": "stefanofiorin.bsky.social",
+      "display_name": "Stefano Fiorin",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:k5wboj77zysx6l52fmcqgtbf",
+      "handle": "stefanschmidt.bsky.social",
+      "display_name": "Stefan Schmidt",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:kpi5bs5ezgjv6ji4qgtbjcbi",
+      "handle": "tomaszsulka.bsky.social",
+      "display_name": "Tomasz Sulka 🇵🇱🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:io6cg7c2kgxx5boels6fnkxt",
+      "handle": "tommasoreggiani.bsky.social",
+      "display_name": "Tommaso Reggiani",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:dodaj2ds3g6bu3b26xtvdiat",
+      "handle": "zhgarfield.com",
+      "display_name": "Zach Garfield",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:hgszputkkrthgggm3fr2e6qh",
+      "handle": "sanpages.eurosky.social",
+      "display_name": "Santiago Sanchez-Pages",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:yavc5qini4tzpkl3lvdfxlvy",
+      "handle": "corinnelow.com",
+      "display_name": "Corinne Low",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ehgied2bxmrrrhho367wk3lp",
+      "handle": "lucinauddin.bsky.social",
+      "display_name": "Lucina Uddin",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:pnn5x42zbvgx7rjxsgio3py2",
+      "handle": "aidangcw.bsky.social",
+      "display_name": "Aidan Wright",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ajfd4hfvlvuz535i5ier2imu",
+      "handle": "lluaces.bsky.social",
+      "display_name": "Lorenzo Lorenzo-Luaces, PhD",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:565ebob5f6hw33hjdkxty6qj",
+      "handle": "tedunderwood.com",
+      "display_name": "Ted Underwood",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ta2whs6wjtpljvpqgs5leu36",
+      "handle": "rmcelreath.bsky.social",
+      "display_name": "Richard McElreath 🐈‍⬛",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:253wnrnlvyf4z5wixm4qi6v4",
+      "handle": "llovegood.bsky.social",
+      "display_name": "Yvonne",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:fbnm4hjnzu4qwg3nfjfkdhay",
+      "handle": "hannesrusch.bsky.social",
+      "display_name": "Hannes Rusch",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:oer4s7d6sfxr3l65qlcgriid",
+      "handle": "lklades.bsky.social",
+      "display_name": "Leonhard Lades",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:jr534efhpwapm2rse737gosm",
+      "handle": "handle.invalid",
+      "display_name": "",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:d2yeov2pnikdz4ajmqti4lgj",
+      "handle": "calvinklai.bsky.social",
+      "display_name": "Calvin Lai",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:zkthrhyelnjtyj6bxu33cgnv",
+      "handle": "danielheck.bsky.social",
+      "display_name": "Daniel Heck",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:a5ykdakgqcr5xwemlzbvdyse",
+      "handle": "mbialek82.bsky.social",
+      "display_name": "Michał Białek ",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:gcyebqepqlljfqy6uwzhjbyd",
+      "handle": "arossotto.bsky.social",
+      "display_name": "Ross Otto",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:xeflxds7mh6tf6m2uka6atwm",
+      "handle": "econsandy.bsky.social",
+      "display_name": "Sandy Black",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:j573ly2zvoyphoqcrh76muqp",
+      "handle": "reiakaishi.bsky.social",
+      "display_name": "Rei Akaishi",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ugxsm37q52almbxsg2h6kgvl",
+      "handle": "econanne.bsky.social",
+      "display_name": "Anne T. Byrne",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:vnlhmrwarp6mz7lf3zzxgvk4",
+      "handle": "chloergibbs.bsky.social",
+      "display_name": "chloe gibbs",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:e7biqzatg56hfz53wlgyytoz",
+      "handle": "cantlonlab.bsky.social",
+      "display_name": "CantlonLab",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:35ycejprfrigkum4qtmumkxj",
+      "handle": "neurograce.bsky.social",
+      "display_name": "Grace Lindsay",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:dmjuau7irhg2lg72ty6sofpa",
+      "handle": "awmercer.bsky.social",
+      "display_name": "Andrew Mercer",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:y7e3mcqeuzcgvagpds5ixywn",
+      "handle": "jbakcoleman.bsky.social",
+      "display_name": "Joe Bak-Coleman",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ezpdevyjnu5c3g5fhurisc5a",
+      "handle": "kevinmking.bsky.social",
+      "display_name": "Kevin M. King",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:dhx7blbpfsihsvlizwbo7lzz",
+      "handle": "meganakpeters.bsky.social",
+      "display_name": "megan peters 🧠",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:cdhkx4inzevprk7qijoevckm",
+      "handle": "michaeljkane.bsky.social",
+      "display_name": "Michael J. Kane",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:vqq3eb5i3pjkh4zlp4j46v24",
+      "handle": "tomhardwicke.bsky.social",
+      "display_name": "Tom Hardwicke",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:mq2l5wveicemcm7qveg7z4a7",
+      "handle": "ryanlei.bsky.social",
+      "display_name": "Ryan Lei",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:4jb3re5tvklsvhuc3lkerj5q",
+      "handle": "markrubin.bsky.social",
+      "display_name": "Mark Rubin",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:vdst4pxhnfuifqerwaq2vlzz",
+      "handle": "sarahegaither.bsky.social",
+      "display_name": "Dr. Sarah Gaither ",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:h5x2wsobzypkmpavq34kygcu",
+      "handle": "jnfrltackett.bsky.social",
+      "display_name": "Jennifer Tackett",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:t4vn5ha3pp6nmaqwyszhmmub",
+      "handle": "mattblackwell.bsky.social",
+      "display_name": "Matt Blackwell",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:hzad7cm7n6f3creuzy5lx32a",
+      "handle": "rdizonross.bsky.social",
+      "display_name": "Rebecca Dizon-Ross",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:kq3vnwqkxfi3bzdipvkp3kyr",
+      "handle": "novosad.bsky.social",
+      "display_name": "Paul Novosad",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ixmlorgimydjhrd5mdp24ozq",
+      "handle": "marciano.bsky.social",
+      "display_name": "Marciano Siniscalchi",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:vccnpnwekxlzegsmm7dy3jq5",
+      "handle": "jkerwin.bsky.social",
+      "display_name": "Jason Kerwin",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:4kcz7hbjb62sectdgv3sg5yv",
+      "handle": "imbernomics.bsky.social",
+      "display_name": "Scott Imberman",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:tb2bwzxom5qv4542ru3zqcgu",
+      "handle": "jakemgrumbach.bsky.social",
+      "display_name": "Jake Grumbach",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:7mstf6hkh3ixefxs6xcwesy6",
+      "handle": "peterbergman.bsky.social",
+      "display_name": "Peter Bergman",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:maurtr4i76hlbdtlsn6l6ptq",
+      "handle": "gottliebecon.bsky.social",
+      "display_name": "Josh Gottlieb",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:h6srr75ahvugj6gts7ql4cpl",
+      "handle": "pengzell.bsky.social",
+      "display_name": "Per Engzell",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:3daparaxjr32j2kdufojer6a",
+      "handle": "bkleinteeselink.bsky.social",
+      "display_name": "Bouke Klein Teeselink",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:qdfg2c5hbgmjrr455b5eds75",
+      "handle": "sberkouwer.bsky.social",
+      "display_name": "Susanna Berkouwer",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:k6stwq5n44qjpbzb5vzpucmh",
+      "handle": "handle.invalid",
+      "display_name": "",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:u246vej7wqpiiao7ftlyqcz4",
+      "handle": "profnoto.bsky.social",
+      "display_name": "Matt Notowidigdo",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ornpixmpy5ts36lh7hmi7wkp",
+      "handle": "warren.senate.gov",
+      "display_name": "Elizabeth Warren",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:cp7p7tb5re53gzcb7j7rms4q",
+      "handle": "asmiley.bsky.social",
+      "display_name": "Adam H. Smiley",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:jzzeggvnbhm3jtna4c2eawyl",
+      "handle": "marycmurphy.bsky.social",
+      "display_name": "Mary C. Murphy",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:qj5zppdg4ovpfe2kej66t2ly",
+      "handle": "kyleratner.bsky.social",
+      "display_name": "Kyle Ratner",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:cgexy3q4ywt4anploo2zrqxp",
+      "handle": "wouterkool.bsky.social",
+      "display_name": "Wouter Kool",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:fgfe7yyjygs5tiwpqdvtfrqh",
+      "handle": "pgertler.bsky.social",
+      "display_name": "Paul Gettler",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:7g6ewq4l3mus26vhgslulu6l",
+      "handle": "pennchibe.bsky.social",
+      "display_name": "Center for Health Incentives and Behavioral Economics",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ywennqkw7zooiyaaumh7zq5g",
+      "handle": "campos-mercade.bsky.social",
+      "display_name": "Pol Campos-Mercade",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:v7wvtabl4o6u5f426wqncxcu",
+      "handle": "nber.org",
+      "display_name": "NBER",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:rnl4uhe6uf5lflankqbdk44v",
+      "handle": "linneagandhi.bsky.social",
+      "display_name": "Linnea Gandhi",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:zmotavngkic2jccws4e45nee",
+      "handle": "benkeys.bsky.social",
+      "display_name": "Ben Keys",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:62gdkmpwa7xme36getyqnem3",
+      "handle": "astrokatie.com",
+      "display_name": "Katie Mack",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:acqjwchehzerju3kpjqfbrqk",
+      "handle": "eadmnews.bsky.social",
+      "display_name": "European Association for Decision Making",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:y43ydxwhuqgcjg7ov2cgmo6z",
+      "handle": "timharford.ft.com",
+      "display_name": "Tim Harford",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:4mb5dkkg2ha3h6acausa2m3v",
+      "handle": "rajivsethi.bsky.social",
+      "display_name": "Rajiv Sethi",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:cotf4fl6hrvlulnrpocebryt",
+      "handle": "gregbdavies.bsky.social",
+      "display_name": "Greg B Davies",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:s5frjnjftahoahix2o6toqwc",
+      "handle": "dilantulan.bsky.social",
+      "display_name": "Dilan Tulan",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:z5fvf4wbc5dbaznbrt5cwn5l",
+      "handle": "stuartbuck.bsky.social",
+      "display_name": "Stuart Buck",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:3tmaleaxipegsectvamyrkyi",
+      "handle": "mmitchell.bsky.social",
+      "display_name": "Margaret Mitchell",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:4t2ziwnnescprzorvmrfduey",
+      "handle": "sarahjeong.bsky.social",
+      "display_name": "sarah jeong",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:qrllvid7s54k4hnwtqxwetrf",
+      "handle": "joshuajfriedman.com",
+      "display_name": "Joshua J. Friedman",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:kbmf4lv4o6uvuvrfzpw2jbhj",
+      "handle": "radiofreetom.bsky.social",
+      "display_name": "Tom Nichols",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:7ulerprhvzskg6bjmliikfuy",
+      "handle": "lazyneuron.bsky.social",
+      "display_name": "Konstantina Sokratous",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:so5r7asbd26pmnnoerksklor",
+      "handle": "meredithmeredith.bsky.social",
+      "display_name": "Meredith Whittaker ",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:yddiyagux5ossyt5342u52fb",
+      "handle": "garymarcus.bsky.social",
+      "display_name": "Gary Marcus",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:bkwqpavfcmddnjfhdzrlkbl3",
+      "handle": "liamdelaney2025.bsky.social",
+      "display_name": "Liam Delaney ",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:nrfdas42bjpfbva3sgqllwem",
+      "handle": "epopppp.bsky.social",
+      "display_name": "Beth Popp Berman",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:q5s3sqzvmrczhtbl3kvnupkq",
+      "handle": "filipecampante.bsky.social",
+      "display_name": "Filipe Campante",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:hudif724mit3wurtgofxi76l",
+      "handle": "ddmlab.bsky.social",
+      "display_name": "Dynamic Decision Making Laboratory",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:dcpvyzm4ou74j6zcz67il5fk",
+      "handle": "luckytran.com",
+      "display_name": "Dr. Lucky Tran",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:bom4p44masckbj7vnfm6aunp",
+      "handle": "deevybee.bsky.social",
+      "display_name": "Dorothy Bishop",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:ats4shmeia7i7ildqm3denmd",
+      "handle": "katmabu.bsky.social",
+      "display_name": "Kat Abughazaleh",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:upw5n2uwhzubjajdtqaufsek",
+      "handle": "sanders.senate.gov",
+      "display_name": "Senator Bernie Sanders",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:pjiafkey2cokiupsxpswqlk7",
+      "handle": "marcelias.bsky.social",
+      "display_name": "Marc Elias",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:jdjwmydknwnaljoxntmrt5lu",
+      "handle": "barbmcquade.bsky.social",
+      "display_name": "Barb McQuade",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:wpj5z24vsmik5ocqjybwjpso",
+      "handle": "hcrichardson.bsky.social",
+      "display_name": "Heather Cox Richardson (TDPR)",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:xl3w4e5jxslqeaglaqit2ql3",
+      "handle": "timothysnyder.bsky.social",
+      "display_name": "Timothy Snyder",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:2q2hs5o42jhbd23pp6lkiauh",
+      "handle": "petebuttigieg.bsky.social",
+      "display_name": "Pete Buttigieg",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:xgiwtxbtt6xc7low5vdz7dq4",
+      "handle": "altnps.bsky.social",
+      "display_name": "Alt National Park Service",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:fbz7i453xrgy6adswhzs72vq",
+      "handle": "eveewing.bsky.social",
+      "display_name": "Eve L. Ewing",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
+      "handle": "thebulwark.com",
+      "display_name": "The Bulwark",
+      "network_score": 6
+    },
+    {
+      "did": "did:plc:tsksqpjisdvtusxq6ide5tzj",
+      "handle": "adamkinzinger.substack.com",
+      "display_name": "Adam Kinzinger",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ued7muflpg7shinmghjfkhhe",
+      "handle": "soumayakeynes.ft.com",
+      "display_name": "Soumaya Keynes",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:z6rujpf4u56jfie7aqic2nfg",
+      "handle": "carlquintanilla.bsky.social",
+      "display_name": "Carl Quintanilla",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:foafuj4pniinyhiev4djp52r",
+      "handle": "meiselasb.bsky.social",
+      "display_name": "Ben Meiselas",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:evqpzdjx7lzdpc3vp5rxwpkk",
+      "handle": "bmeiselas.bsky.social",
+      "display_name": "Brett Meiselas",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ul3dm3b76hu2cqla3qxb4v6u",
+      "handle": "data.ft.com",
+      "display_name": "FT Visual & Data Journalism",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:qu3bzqz3ijrnyx2ieinnywj6",
+      "handle": "kitdeming.bsky.social",
+      "display_name": "Kit Deming ",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2amnkge5a6hplfwyesmxqkfl",
+      "handle": "gregsargent.bsky.social",
+      "display_name": "Greg Sargent",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:f6hdxggxx4qfijx4sd3dnbkg",
+      "handle": "dandrezner.bsky.social",
+      "display_name": "Daniel Drezner",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:j4qqea3tr3x44qxvbp75lkyg",
+      "handle": "bcappelbaum.bsky.social",
+      "display_name": "Binyamin Appelbaum",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:sbdnltkjqzeb5qshxmi7wu2i",
+      "handle": "gelliottmorris.com",
+      "display_name": "G Elliott Morris",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:p5yoii26kayabauhkym3vtms",
+      "handle": "ryanlcooper.com",
+      "display_name": "ryan cooper",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:quzcwmqdsnbosevdgj3bmtq2",
+      "handle": "petridishes.bsky.social",
+      "display_name": "Alexandra Petri",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:mnn4wpswlwz4blhpkw45two4",
+      "handle": "giocompiani.bsky.social",
+      "display_name": "Giovanni Compiani",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tdokiji4bf6x32hbleniukdv",
+      "handle": "simoneschnall.bsky.social",
+      "display_name": "Simone Schnall, Ph.D.",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:f4fpuyvvr47i76molekneony",
+      "handle": "gitavj.bsky.social",
+      "display_name": "",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ddwcqoikz66dbiqxdg3veglk",
+      "handle": "sepehr-e.bsky.social",
+      "display_name": "Sepehr Etminanrad",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:zrm6hfebw57rgqt6lqkslxzl",
+      "handle": "p1sh.bsky.social",
+      "display_name": "Peter Sokol-Hessner",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:pnuvv64jl2dhd3lhvjlhkxzl",
+      "handle": "chiaralongoni.bsky.social",
+      "display_name": "Chiara ",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:nmzgewxr7g5cy3nivbfpto4i",
+      "handle": "shuhbillskee.bsky.social",
+      "display_name": "Andrew Przybylski",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:hnlkil4ehrr65qrjzhdvjuwp",
+      "handle": "asinclair.bsky.social",
+      "display_name": "Allie Sinclair",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:cxd6b4wxxddsthwudgrhh53d",
+      "handle": "schubert.bsky.social",
+      "display_name": "Thomas Schubert",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:yzlqpiw66h7oppkphl3ckosl",
+      "handle": "richardhuskey.bsky.social",
+      "display_name": "Richard Huskey",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ks244q2qaqc5r3u5uftv4rbj",
+      "handle": "claesdevreese.bsky.social",
+      "display_name": "Claes de Vreese",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:amebj2ndf6zxdg7tfetl5dlo",
+      "handle": "emilythorson.bsky.social",
+      "display_name": "Emily Thorson",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:m5rfe3ubaoqfhxu637wgzs34",
+      "handle": "natrevpsychol.nature.com",
+      "display_name": "Nature Reviews Psychology",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:lxb6cc46tkvenvt5zwzo3vtl",
+      "handle": "kingla.bsky.social",
+      "display_name": "Laura King",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tdcgbtd4wvhktrrhksipkuvz",
+      "handle": "eschwitz.bsky.social",
+      "display_name": "Eric Schwitzgebel",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:cc4nwhbu5acoxyyq4l2ygkyt",
+      "handle": "d-melnikoff.bsky.social",
+      "display_name": "David Melnikoff",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:f2brsdfzfmquqzfyuuu3sino",
+      "handle": "petersinger.info",
+      "display_name": "Peter Singer",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:yhgvdzxil7rw42guhn4c4lmt",
+      "handle": "hayleydorfman.bsky.social",
+      "display_name": "Hayley Dorfman",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tbmg3nntrng763divkxdcnud",
+      "handle": "prl.bsky.social",
+      "display_name": "Polarization Research Lab",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:wsdtdyz2jwve75f6unwnjip3",
+      "handle": "alekscichocka.bsky.social",
+      "display_name": "Prof Aleksandra Cichocka",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:duhd6gjx2awfijk45pezq3j3",
+      "handle": "shelleymckeown.bsky.social",
+      "display_name": "Shelley McKeown Jones",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:dtazej3n4fzkmme6k6o34tfg",
+      "handle": "jakeembrey.bsky.social",
+      "display_name": "Jake Embrey",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:geflrrzwzq55b7ylrcsxghkg",
+      "handle": "emilyliquin.bsky.social",
+      "display_name": "Emily Liquin",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ksbgnm3pdojgd66l7ucfygmi",
+      "handle": "julianje.bsky.social",
+      "display_name": "Julian Jara-Ettinger",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:wuirhcxjxejmeiqfobkvu6dk",
+      "handle": "kellypeters.bsky.social",
+      "display_name": "Kelly Peters",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:s6j27rxb3ic2rxw73ixgqv2p",
+      "handle": "kenwhite.bsky.social",
+      "display_name": "Popehat Of Avignon",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:47u3o77rreal57hz2kqop4pm",
+      "handle": "pslovic.bsky.social",
+      "display_name": "Paul Slovic",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:zoslmp3x5qxfcwfsxdfn53nm",
+      "handle": "fourbeerspod.bsky.social",
+      "display_name": "Two Psychologists Four Beers",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:annmqsso5dg57hrz5jaxhri4",
+      "handle": "engber.bsky.social",
+      "display_name": "Daniel Engber",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:sp5paqzfmzlsxazgv7hrukda",
+      "handle": "roxanegay.bsky.social",
+      "display_name": "Roxane Gay",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:y7dvmczvldrw6n5s6ww7d4ug",
+      "handle": "keithpayne.bsky.social",
+      "display_name": "Keith Payne",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ya7gfadgypyypiva5pboi6mi",
+      "handle": "rebeccasolnit.bsky.social",
+      "display_name": "Rebecca Solnit",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2a3fccj365bhpaqoourcntuu",
+      "handle": "gregdepow.bsky.social",
+      "display_name": "Greg Depow",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ekhwq6wsvqdqykxzdc23l5jg",
+      "handle": "edouardmachery.bsky.social",
+      "display_name": "Edouard Machery",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:46e3r3fp37dl3alwheajaez7",
+      "handle": "rebeccasear.bsky.social",
+      "display_name": "Rebecca Sear",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:mlp6dyg6xsgq7l6sd2zdqf6s",
+      "handle": "vladchituc.bsky.social",
+      "display_name": "Vlad Chituc",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:izio2kd56aw4hpoxgok6wlsb",
+      "handle": "numcog.bsky.social",
+      "display_name": "Daniel Ansari 🇨🇦",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:254itwvgkdnnelfrt3yeqsdy",
+      "handle": "adenaschachner.bsky.social",
+      "display_name": "Adena Schachner",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:nyx64cl7oqkc3nqwiu3cnps5",
+      "handle": "hakwan.bsky.social",
+      "display_name": "hakwan lau",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ipuzeaiv4f6o5zfvqoy4rn6u",
+      "handle": "emilyhho.bsky.social",
+      "display_name": "Emily H Ho",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2hs7kgabp7fyugj3ta5qyfrk",
+      "handle": "danielvastfjall.bsky.social",
+      "display_name": "Daniel Västfjäll",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:7kpup6ijbpwo5rhn3o6gf24r",
+      "handle": "maxspohn.bsky.social",
+      "display_name": "Max Spohn",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:y5m2tr4ktn6w5lfdtfqginkz",
+      "handle": "alexasamaniego.bsky.social",
+      "display_name": "Alexa Samaniego",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:kb6ugdswgb3ld5d52fk77bmk",
+      "handle": "mattgrossmann.bsky.social",
+      "display_name": "Matt Grossmann",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:cqkipdvkgpykltyraarrxnnw",
+      "handle": "seankhiggins.bsky.social",
+      "display_name": "Sean Higgins",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:skf244z64dfa5yvynksq65ij",
+      "handle": "mclem.org",
+      "display_name": "Michael Clemens",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:uma5vw4slokb3hv4jabcph4m",
+      "handle": "irenemussio.bsky.social",
+      "display_name": "Irene Mussio",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:3igkkqe5nkm66olc4y2syzpy",
+      "handle": "markriedl.bsky.social",
+      "display_name": "Mark Riedl",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:psjqz57yjeahivuxevkijbag",
+      "handle": "jamesbland.bsky.social",
+      "display_name": "James Bland",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:nb2yl632b2ieropxghx3evxx",
+      "handle": "dhadfieldmenell.bsky.social",
+      "display_name": "Dylan Hadfield-Menell",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ebtn5uwxbtwbyjx25jjqlh7b",
+      "handle": "itsafronomics.blacksky.app",
+      "display_name": "Anna Gifty",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:gfbqeayxu43awya6h76w44o6",
+      "handle": "markjpelletier.bsky.social",
+      "display_name": "Mark J. Pelletier",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2onmsyu3xydl3qabhdja23ol",
+      "handle": "jemather.bsky.social",
+      "display_name": "Ted Matherly",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:l4m4motbkkyq3d6p5coojqws",
+      "handle": "kalealex.bsky.social",
+      "display_name": "Alex Kale",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:kw5eaeoyxxwjohnsibykpbyi",
+      "handle": "olivierklein.bsky.social",
+      "display_name": "Olivier Klein",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:j6gzeg3rgaoplm5yjermfeqi",
+      "handle": "profjohndrury.bsky.social",
+      "display_name": "John Drury",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:kh6h6c3d5crwuobfiw4ftdlm",
+      "handle": "chriscrandall.bsky.social",
+      "display_name": "Chris Crandall",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ltkoeakm2uaja6g7c7lnsben",
+      "handle": "chanelkmeyers.bsky.social",
+      "display_name": "Chanel Meyers",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:h7va7tlwaxnlrsskhvw6asgf",
+      "handle": "jdeska.bsky.social",
+      "display_name": "Jason Deska",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tpl46o7zunknm2bm2ef6swhm",
+      "handle": "brainapps.bsky.social",
+      "display_name": "Matthew Apps",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tskmljyr7yvab4bji2pahdvg",
+      "handle": "kirstanbrodie.bsky.social",
+      "display_name": "Kirstan Brodie",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:7gla5lts3sapmik5qc63d3r2",
+      "handle": "eshjolly.bsky.social",
+      "display_name": "Eshin Jolly",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:au547mstw4xkk5tt4cdrulcv",
+      "handle": "cillianmchugh.bsky.social",
+      "display_name": "Cillian McHugh",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:u5j3aoh4j4pxx3pzu47n7n3h",
+      "handle": "annayahprosser.bsky.social",
+      "display_name": "Annayah M.B. Prosser",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:v3taducektfehhlpj4xijvu3",
+      "handle": "colinsmithpsych.bsky.social",
+      "display_name": "Colin Tucker Smith",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:bznf6ki5o3s66pwqkx3beu5y",
+      "handle": "seanbogart.bsky.social",
+      "display_name": "Sean Bogart",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:cxextskw6s2q2wypbelowl5f",
+      "handle": "rasharasha.bsky.social",
+      "display_name": "Rasha Kardosh",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:qqezpa6tha2kc6fcvad5yzbl",
+      "handle": "urihertz.bsky.social",
+      "display_name": "Uri Hertz ",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:umy2nzpe3yjtynhspfigplle",
+      "handle": "tbgphd.bsky.social",
+      "display_name": "Tessa Benson-Greenwald",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:5q6kqsrujgymizfjsk67frec",
+      "handle": "janaberkessel.bsky.social",
+      "display_name": "Jana Berkessel",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ghipzgjthvasvloamyzrdoi6",
+      "handle": "allisonkfarrell.bsky.social",
+      "display_name": "Allie Farrell",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:jhcq7v6full3x6xrru5bss3v",
+      "handle": "kaiepstude.bsky.social",
+      "display_name": "Kai Epstude",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:nh7xhsj63od6y3kvcf63ftv5",
+      "handle": "alistair-munro.bsky.social",
+      "display_name": "Alistair Munro",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tteh5ugc6ajxd4sokd73ekq7",
+      "handle": "beranek.bsky.social",
+      "display_name": "Benjamin Beranek",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:qvp72oh3s7lw56g7at7hos56",
+      "handle": "biljameiske.bsky.social",
+      "display_name": "Bilja Meiske",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:bisvszxb62j4pn53brbkwv2v",
+      "handle": "chtraxler.bsky.social",
+      "display_name": "Christian Traxler",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:zh5sliylgc22htxlqsrduhdv",
+      "handle": "coraliechevallier.bsky.social",
+      "display_name": "Coralie Chevallier",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:w47rfv3d2f36ap5v7iz74b2v",
+      "handle": "cubel.bsky.social",
+      "display_name": "Maria Cubel",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:y6rl3g6gtbfgz2q6rlc5lc7n",
+      "handle": "cpz-econ.bsky.social",
+      "display_name": "Christian Pugnaghi Zimpelmann",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:qkw55ct73nx4mtfodr26tyww",
+      "handle": "essieconomist.bsky.social",
+      "display_name": "Essi Kujansuu",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:7gwezoorgedcyy7ok25aoows",
+      "handle": "fpayroc.bsky.social",
+      "display_name": "Fernando Payro",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:5ymbdw4ckmeensyahxg7mqyb",
+      "handle": "gkarreskog.bsky.social",
+      "display_name": "Gustav Karreskog Rehbinder",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:5n5tmnyv34qnkbvhyqdhdoi4",
+      "handle": "jawj.prof",
+      "display_name": "George MacKerron",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:e7o2umeblwghlbemf256iw4x",
+      "handle": "jorisgillet.bsky.social",
+      "display_name": "Joris Gillet",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:lw6qyo7cygqcxxzdtv5wmnlv",
+      "handle": "joybuchanan.bsky.social",
+      "display_name": "Joy Buchanan",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:yrtkiz5ok3uvqon2bfyysbtx",
+      "handle": "julianafziger.bsky.social",
+      "display_name": "Julia Nafziger",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:rg5mwvr4p2w5ejftnebgjtkr",
+      "handle": "rostanek.bsky.social",
+      "display_name": "Rostislav Stanek",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tkt6kww6bfsx2wniubu6hftk",
+      "handle": "rotemdvir.bsky.social",
+      "display_name": "Rotem Dvir, PhD.",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:msvgxpvgnxswhqiwmgud54ru",
+      "handle": "sweehoon.bsky.social",
+      "display_name": "Swee-Hoon Chuah",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:xys5bs77qg2nylinlr23vnqn",
+      "handle": "tonyhockley.bsky.social",
+      "display_name": "Tony Hockley",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:j3cg2bomdec5i7jthvdapymu",
+      "handle": "cedricp.bsky.social",
+      "display_name": "Cédric Paternotte",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:p5r466hwg4ndcfix55yu7cvt",
+      "handle": "chloeneast.bsky.social",
+      "display_name": "Chloe N East (she/her)",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:v4hljn44u2rsra6ppua4maox",
+      "handle": "mknox.bsky.social",
+      "display_name": "Melissa Knox",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ovp5p4orql42k3t6zdskxuba",
+      "handle": "doctoriw.eurosky.social",
+      "display_name": "Konstantinos Ioannidis",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:mip7mhv4t6m2ik55cud4sbq3",
+      "handle": "duanegwatson.bsky.social",
+      "display_name": "Duane Watson",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:4eg2mtpv6jgs2ya47sb7dn76",
+      "handle": "irahyman.bsky.social",
+      "display_name": "Ira Hyman",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:vsyj5jtayxcq5dw5mtja4xtb",
+      "handle": "olivia.science",
+      "display_name": "Olivia Guest · Ολίβια Γκεστ",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:jiz4oadiiihj4kqvmk2vy7kq",
+      "handle": "paulwind.bsky.social",
+      "display_name": "Paul Windschitl",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:op7eevqcejmhguigdma42vdp",
+      "handle": "perfors.net",
+      "display_name": "Andrew Perfors",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:raercot5ixlbxyzhcagmdzhm",
+      "handle": "freemanjb.bsky.social",
+      "display_name": "Jon Freeman",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ynoxe7zhlx5xyo7n2x6tnlky",
+      "handle": "xiaowenxu.bsky.social",
+      "display_name": "Xiaowen Xu, PhD",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2uuiopquszyrxnzhm2uejsqt",
+      "handle": "klempert.bsky.social",
+      "display_name": "Karolina Lempert",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:kayyht4tw3jxoqjcob6x4yb5",
+      "handle": "melissabaker.bsky.social",
+      "display_name": "Melissa Baker",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:cxbik6evt3nctbichwozak7c",
+      "handle": "mindminer.bsky.social",
+      "display_name": "Sangsuk Yoon ",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:7r3azsw5jajc4hdlqsktuo7s",
+      "handle": "carolzanette.bsky.social",
+      "display_name": "Carol Zanette",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2oyp65l6vtz3jklkrzty44rq",
+      "handle": "rourkeobrien.bsky.social",
+      "display_name": "Rourke O’Brien",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:r7ko5msl5xpl566h7ygaatph",
+      "handle": "marthagimbel.bsky.social",
+      "display_name": "Martha Gimbel",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:realsmbbxx42de6p4iv5xxei",
+      "handle": "mattcrumplab.bsky.social",
+      "display_name": "Matt Crump",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tk6yavumhhjplzqijs44sc53",
+      "handle": "nathanieldaw.bsky.social",
+      "display_name": "Nathaniel Daw",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2zcfjzyocp6kapg6jc4eacok",
+      "handle": "andrew.heiss.phd",
+      "display_name": "Andrew Heiss",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:kfca4dcbow4ahtqrj3aenu3x",
+      "handle": "yannbd.bsky.social",
+      "display_name": "Yann Benétreau-Dupin",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:mmzzps7ujtzias5cph45wkd6",
+      "handle": "mirya.bsky.social",
+      "display_name": "Mirya R. Holman",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:wyqv3jcspknvboilgmpdh473",
+      "handle": "natvelali.bsky.social",
+      "display_name": "Natalia Vélez",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:uwnpdd65bk5g3npc3oe4dxko",
+      "handle": "tcarpenter.bsky.social",
+      "display_name": "Tom Carpenter, PhD",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:67bc3vvpygk3fjyssypybnoi",
+      "handle": "doctorjaj.bsky.social",
+      "display_name": "Jill A. Jacobson",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2senv3dw6eqngvqye3lhuk25",
+      "handle": "spicythai.bsky.social",
+      "display_name": "Sabrina Thai | 蔡佩君 🇨🇦",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ysvjlda6ios6wvdzvaeouisj",
+      "handle": "jackiemchen.bsky.social",
+      "display_name": "Jackie Chen",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2zdn7tlpmgpqffycb525f746",
+      "handle": "juliafstrand.bsky.social",
+      "display_name": "Julia Strand",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:4wwhwq5yy6btl4omycw66gfd",
+      "handle": "steveharoz.com",
+      "display_name": "Steve Haroz",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tl33ikofz2i4sn5kqiybfze4",
+      "handle": "ginapieters.bsky.social",
+      "display_name": "Gina C. Pieters, PhD",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2ziwrowp2nsfnj42u7w2uain",
+      "handle": "pietrobiroli.bsky.social",
+      "display_name": "Pietro Biroli",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:6dz3ci2p6ojv633run467izc",
+      "handle": "stevecicala.bsky.social",
+      "display_name": "Steve Cicala",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:sjab3wp5lmjljltqeqybkmep",
+      "handle": "ihaal.bsky.social",
+      "display_name": "Ingar Haaland ",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:prrfbb5nid5ljus3px4tq6oh",
+      "handle": "toniwhited.bsky.social",
+      "display_name": "Toni Whited 😷",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ywrorelg2xfoieljrlzskbvv",
+      "handle": "briancalbrecht.bsky.social",
+      "display_name": "Brian Albrecht",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:6i2csfb6ss2ixztqwug6n4av",
+      "handle": "nomadj1s.bsky.social",
+      "display_name": "Damon Jones",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:3msnxb5c6kbm5lmf6f5akqr5",
+      "handle": "ganong.bsky.social",
+      "display_name": "Peter Ganong",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:phyu3ean3lshqjaznhqz7mlt",
+      "handle": "evavivalt.bsky.social",
+      "display_name": "Eva Vivalt",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:inebfw2ywwwaaisqxegxjtdy",
+      "handle": "aadukia.bsky.social",
+      "display_name": "Anjali Adukia",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:376esvgdbswzcgxm5alq4fae",
+      "handle": "singhabhi.bsky.social",
+      "display_name": "Abhijeet Singh",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:a6p4ftarwfwa4rcicmvf6i4y",
+      "handle": "dlmillimet.bsky.social",
+      "display_name": "ᴅᴀɴɪᴇʟ ᴍɪʟʟɪᴍᴇᴛ ✡️☮️❤️",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:kdkjucgnivqdszx6v64s6t6c",
+      "handle": "hannesullrich.com",
+      "display_name": "Hannes Ullrich",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:m3ceq3lhywargp2yhbs2xq23",
+      "handle": "jamesbrandecon.bsky.social",
+      "display_name": "Jimbo Brand",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:v26wfth5okau7wchix4qi2ru",
+      "handle": "toreellingsen.bsky.social",
+      "display_name": "Tore Ellingsen",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:5janxiqsbehcbovvmczzlvrh",
+      "handle": "phuenermund.bsky.social",
+      "display_name": "Paul Hünermund",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:e7xujxrtcc7bf5c4bni4f3vm",
+      "handle": "annagoeddeke.bsky.social",
+      "display_name": "Anna Goeddeke",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:hkfarnm7ln7wh2xwe4b3mgpz",
+      "handle": "nnabout.bsky.social",
+      "display_name": "Nadia Abou Nabout ",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ft64hk7yo5jr25yyawc73ahz",
+      "handle": "emmaspiro.bsky.social",
+      "display_name": "Emma Spiro",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ymuuiceuqh6ifw7bbalna7v6",
+      "handle": "chrisbail.bsky.social",
+      "display_name": "Chris Bail",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ggdqndqx4p44m26w4tu27evq",
+      "handle": "psypost.bsky.social",
+      "display_name": "PsyPost",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:houudheicysxpb6pj3kcfz6l",
+      "handle": "annaciaunica.bsky.social",
+      "display_name": "Anna Ciaunica PhD",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:6rkcmp7ktkrll7k6q43er27t",
+      "handle": "diegoreinero.bsky.social",
+      "display_name": "Diego Reinero, Ph.D.",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:zy2vd433bm6blb4ild6udupv",
+      "handle": "clarapretus.bsky.social",
+      "display_name": "Clara Pretus",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tmpjzli5yv2hd52mu6rzeax6",
+      "handle": "mdehghani.bsky.social",
+      "display_name": "Morteza Dehghani ",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:65kgbz66upvsypubrj6rfjvw",
+      "handle": "mmosleh.bsky.social",
+      "display_name": "Mohsen Mosleh",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:zz4bvgjttpbdajnq4eysyle6",
+      "handle": "michellemeyer.bsky.social",
+      "display_name": "Michelle Meyer",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:nylio5rpw7u3wtven3vcriam",
+      "handle": "micahgallen.com",
+      "display_name": "Micah G. Allen",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:skvtecuyoitgwnhqazbhjnkh",
+      "handle": "bcfginitiative.bsky.social",
+      "display_name": "Behavior Change for Good Initiative",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:gpfewsj5bclvbjsxkpwzkuii",
+      "handle": "meganranney.bsky.social",
+      "display_name": "Megan Ranney MD MPH",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:vrsppvjc5fysqnm2zshiirey",
+      "handle": "nature.com",
+      "display_name": "Nature",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:x4xlo36qdi474dmntej3yfte",
+      "handle": "cgravert.bsky.social",
+      "display_name": "Christina Gravert",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:xcfunkqgj7twgyb3bv6g7jsu",
+      "handle": "stonke.bsky.social",
+      "display_name": "Sebastian Tonke",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:qml5xpxbvnwkr453lfpp6mrc",
+      "handle": "libertadgonzalez.bsky.social",
+      "display_name": "Libertad González",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:bono5gae7m6r3qpfxomshwbd",
+      "handle": "maddow.bsky.social",
+      "display_name": "Rachel Maddow",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:vqgovau5gkirnk3ss5qwjdmz",
+      "handle": "science.org",
+      "display_name": "Science Magazine",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:hcj3ymughhmhgt6lteeivh7x",
+      "handle": "decelles.bsky.social",
+      "display_name": "Katy DeCelles",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:cnpe7qvcyjrhm6w7w7e4atur",
+      "handle": "kevinmkruse.bsky.social",
+      "display_name": "Kevin M. Kruse",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:vsp6x5mhiu2bg5gm65voobso",
+      "handle": "xehu.bsky.social",
+      "display_name": "Emily Hu",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:6sioz6evwi6pr5kclkksbzkp",
+      "handle": "robseamans.bsky.social",
+      "display_name": "Rob Seamans",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:y77n77kdqzhbg647blkfypyr",
+      "handle": "chrismurphyct.bsky.social",
+      "display_name": "Chris Murphy",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:dtgf4ffz7udcwk55akeeqbsj",
+      "handle": "andreaaaaa.bsky.social",
+      "display_name": "Andrea Low",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:nwnlnixtjh3qhkwpz2uy5uwv",
+      "handle": "stevevladeck.bsky.social",
+      "display_name": "Steve Vladeck",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:lfyzcjubxi55akrhlj7beqbz",
+      "handle": "krajbichlab.bsky.social",
+      "display_name": "Krajbich Lab",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:vas7fpuhfyyvxao3wtpj5afs",
+      "handle": "roednielsen.bsky.social",
+      "display_name": "Kristian Roed Nielsen",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:zbhel3fmbfc6dm4cc5ffeaks",
+      "handle": "profhumphreys.bsky.social",
+      "display_name": "ProfHumphreys",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:nsrxixje3xys6run64ebys7j",
+      "handle": "lukasneville.com",
+      "display_name": "Lukas Neville",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:5pauhfmo66nhf6ppdyhs22oi",
+      "handle": "stephenshu.bsky.social",
+      "display_name": "Stephen Shu",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:hxlsaiy2sctensgjmw3dfwop",
+      "handle": "michelenuijten.bsky.social",
+      "display_name": "Michèle Nuijten",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:jaednxqzajjarrfkclul2izo",
+      "handle": "smfleming.bsky.social",
+      "display_name": "Steve Fleming",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:cuw4rdsa6dkct3kxyhs7suoi",
+      "handle": "pamherd.bsky.social",
+      "display_name": "Pam Herd",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:lhwo2h3yurfhh5ofrl2a4nwf",
+      "handle": "fidlerfm.bsky.social",
+      "display_name": "Fiona Fidler",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ecg6xi5wymsghbfhgh6aw7ga",
+      "handle": "lornejcampbell.bsky.social",
+      "display_name": "Lorne Campbell",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:x66qnnfwinx552tbbdpl7cay",
+      "handle": "kairyssdal.bsky.social",
+      "display_name": "Kai Ryssdal",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:rowy3p63shfrunybicm3iufh",
+      "handle": "llinong.bsky.social",
+      "display_name": "L. Lin Ong",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:rlr4e4zioxivpndzr4mqw4r2",
+      "handle": "weratedogs.com",
+      "display_name": "WeRateDogs",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:y2eszohkxjepjq7nv4ckl2vl",
+      "handle": "jevinwest.bsky.social",
+      "display_name": "Jevin D. West",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:d3dfgzeewbtgstvce5n3j6gs",
+      "handle": "davidlazer.bsky.social",
+      "display_name": "David Lazer",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:4uxkj4km7gifvjdddekt5akf",
+      "handle": "ruchowdh.bsky.social",
+      "display_name": "Rumman Chowdhury",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:tkbweudpy6tvzjqdiza4z3p5",
+      "handle": "j2bryson.bsky.social",
+      "display_name": "Joanna Bryson",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:y3gnpw7ric7jlw5vsh2sr6wd",
+      "handle": "janeeckhout.bsky.social",
+      "display_name": "Jan Eeckhout",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:c5decnnti5ky5vjspzugkmg6",
+      "handle": "mostrovsky.bsky.social",
+      "display_name": "Michael Ostrovsky",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:gopsyxl7h53zecg7o3h5wbot",
+      "handle": "cocoscilab.bsky.social",
+      "display_name": "Griffiths Computational Cognitive Science Lab",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:iyg2nfwfbzaafplkx7gwji6v",
+      "handle": "cohodes.bsky.social",
+      "display_name": "Sarah Cohodes",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:k3r24fzlegg32xce27a4nule",
+      "handle": "highhouse.bsky.social",
+      "display_name": "Scott Highhouse",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:t46sqvutibvsmjgwn6r6izve",
+      "handle": "yasharali.bsky.social",
+      "display_name": "Yashar Ali 🐘",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:5wrzaxlthdosxp5nukquc7ri",
+      "handle": "danielascur.bsky.social",
+      "display_name": "Daniela Scur",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:3fijoeofn4xroy5y2t5yxxpp",
+      "handle": "draliceevans.bsky.social",
+      "display_name": "Alice Evans",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:uwyqboi6dqkqn4w7emylxbpg",
+      "handle": "danielrock.bsky.social",
+      "display_name": "Daniel Rock",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:nl4nxtzjnxhsx2cg4vexbyws",
+      "handle": "hatethegamebook.com",
+      "display_name": "Daryl Fairweather ⛅",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ohxglijnl6yxg7glt5j7n4yl",
+      "handle": "i4replication.bsky.social",
+      "display_name": "Institute for Replication",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:eon2iu7v3x2ukgxkqaf7e5np",
+      "handle": "safety.bsky.app",
+      "display_name": "Bluesky Safety",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:try3fy5vmqug4zry7n46dxpi",
+      "handle": "aaroncharlton.bsky.social",
+      "display_name": "Aaron Charlton",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:lsv7rjgicuydygphcp4r6ton",
+      "handle": "peeterverlegh.bsky.social",
+      "display_name": "Peeter Verlegh",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:t2dfq4ktezmwjdnjjaygw4bl",
+      "handle": "newyorker.com",
+      "display_name": "The New Yorker",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:4u3hwe3p7oy3hoy3amlw7rp2",
+      "handle": "rbreich.bsky.social",
+      "display_name": "Robert Reich",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:mcxwgi6ytwp72kzqmujcixep",
+      "handle": "rgoodlaw.bsky.social",
+      "display_name": "Ryan Goodman",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:yhwyp5hu4xna5vvz5b6ahtya",
+      "handle": "rmayemsinger.bsky.social",
+      "display_name": "Randi Mayem Singer",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:feobw43ezgemam6r6zvfzp42",
+      "handle": "stevenbeschloss.bsky.social",
+      "display_name": "Steven  Beschloss",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:5o6k7jvowuyaquloafzn3cfw",
+      "handle": "thetnholler.bsky.social",
+      "display_name": "The Tennessee Holler ",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:bf4lpnw2sqnezixt3k7xqxfj",
+      "handle": "davidfrum.bsky.social",
+      "display_name": "David Frum",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:j5hrotody26iqi24hcusufxu",
+      "handle": "zohrankmamdani.bsky.social",
+      "display_name": "Zohran Kwame Mamdani",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:cxrua73vvgqw4lel4nkccky7",
+      "handle": "lincolnproject.us",
+      "display_name": "The Lincoln Project",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:agiex7zg5lulytsxulmalrgz",
+      "handle": "ericlipton.nytimes.com",
+      "display_name": "Eric Lipton NYT",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:vxkxu65awa3ocjpiqmmrxnt2",
+      "handle": "nickknudsenus.bsky.social",
+      "display_name": "Nick Knudsen",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:ejihld4sywvvqwe67cdkn4jq",
+      "handle": "marisakabas.bsky.social",
+      "display_name": "Marisa Kabas",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2vtbmhmrwzbqcfv4we4uxzzt",
+      "handle": "reichlinmelnick.bsky.social",
+      "display_name": "Aaron Reichlin-Melnick",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:gvda6fem6r7selm4gzjjww4a",
+      "handle": "leahmcelrath.bsky.social",
+      "display_name": "Leah McElrath",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:5vzgjins5recitzoov4rby3y",
+      "handle": "couts.bsky.social",
+      "display_name": "Andrew Couts",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:2hltimymy65zl5ba7ifsq3qr",
+      "handle": "katiephang.bsky.social",
+      "display_name": "Katie Phang",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:lzlqyldh7nfc34pfffvd24ko",
+      "handle": "adamserwer.bsky.social",
+      "display_name": "Adam Serwer",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:t4x2ruk2qmob2b2cx55h4v7r",
+      "handle": "annabower.bsky.social",
+      "display_name": "Anna Bower",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:xtg6uhgsy2j7k2a6qtcood2w",
+      "handle": "karlbode.com",
+      "display_name": "Karl Bode",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:77lswp42lgjyw36ozuo7kt7e",
+      "handle": "davidho.bsky.social",
+      "display_name": "David Ho",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:x4qyokjtdzgl7gmqhsw4ajqj",
+      "handle": "bencollins.bsky.social",
+      "display_name": "Tim Onion",
+      "network_score": 5
+    },
+    {
+      "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+      "handle": "cnn.com",
+      "display_name": "CNN",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:tvsqbraxhv5l5mztwtkueq5x",
+      "handle": "kimlanelaw.bsky.social",
+      "display_name": "Kim Lane Scheppele",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:5sq2hnlasek7plaulvyhwbew",
+      "handle": "colbylsmith.bsky.social",
+      "display_name": "Colby Smith",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:hthhtetujklon2c7r65cmvrq",
+      "handle": "matt-levine.bsky.social",
+      "display_name": "Matt Levine",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:7q3w4zshnfsnqqn55znzyl2r",
+      "handle": "claudia-sahm.bsky.social",
+      "display_name": "Claudia Sahm ",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:ihpglfqq3dapqjmwl2ntktil",
+      "handle": "sahilkapur.bsky.social",
+      "display_name": "Sahil Kapur",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:wux3xavyu7fw2v64prcz3uuf",
+      "handle": "jeffstein.bsky.social",
+      "display_name": "Jeff Stein",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:q6jn3toyld7jmf4fqr7wleyg",
+      "handle": "byjustinfox.bsky.social",
+      "display_name": "Justin Fox",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:da3vqxwkqjqetthakpcnqfog",
+      "handle": "jonsteinsson.bsky.social",
+      "display_name": "Jón Steinsson 🗽",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:oobxaxlgov7soth2bzaynvrc",
+      "handle": "annastansbury.bsky.social",
+      "display_name": "Anna Stansbury",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:lwlwbg4mvvz4uppezlxcczm2",
+      "handle": "brianbeutler.bsky.social",
+      "display_name": "Brian Beutler",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:7opq7fli7yjjqvmwy4bdd47g",
+      "handle": "timobres.bsky.social",
+      "display_name": "Tim Bresnahan",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:bvvfp4zhvkwh7bfeyjjd3yub",
+      "handle": "adamgrant.bsky.social",
+      "display_name": "Adam Grant",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:yklpo5gujtp3lcbubdpzeiy4",
+      "handle": "lenafrescamente.bsky.social",
+      "display_name": "Lena Frischlich",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:77mgx4uwzcgikdanqa5qiazx",
+      "handle": "falklab.bsky.social",
+      "display_name": "Communication Neuroscience Lab",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:l57xdi5xyqw76ljwnrpa75js",
+      "handle": "alessandronai.bsky.social",
+      "display_name": "Alessandro Nai",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:pchvvbkhzfrusxpasqpshd2q",
+      "handle": "joshpasek.com",
+      "display_name": "Josh Pasek",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:yk53kdnnekytsjp7uf4t7rhp",
+      "handle": "foucaultwelles.bsky.social",
+      "display_name": "Brooke Foucault Welles",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:bos2gyjdrqmy6pir7xr2d262",
+      "handle": "rolfzwaan.bsky.social",
+      "display_name": "Rolf Zwaan",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:vd4n64kivewrzffozbma5p7g",
+      "handle": "stewartcoles.bsky.social",
+      "display_name": "Chokely Carmichael🥋",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:tn62qjcktc2ep4qswbyocm7f",
+      "handle": "dfreelon.bsky.social",
+      "display_name": "Deen Freelon",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:tv6fc7stwhjt3c3c54mz24z6",
+      "handle": "rosesomm.bsky.social",
+      "display_name": "Roseanna Sommers",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:62y7oldr5c53gdrg7vtsektk",
+      "handle": "narrprof.bsky.social",
+      "display_name": "M Green",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:cn54gi4w3anugyfn4czrrdw3",
+      "handle": "cjmott.bsky.social",
+      "display_name": "Christian Mott",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:fk3wl5kkfeclz4w264m6d3tk",
+      "handle": "fredcallaway.bsky.social",
+      "display_name": "Fred Callaway",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:klxnqpx2qo5i4zidvvsqdlvg",
+      "handle": "yuenhuo.bsky.social",
+      "display_name": "Yuen Huo, Ph.D.",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:2equdddiqaca2keqp3omsmrt",
+      "handle": "shariliu.bsky.social",
+      "display_name": "Shari Liu",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:wqopcxqieom75shcm2ilx6c3",
+      "handle": "nazlibhatia.bsky.social",
+      "display_name": "Nazli Bhatia",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:hty2hemt2cdlhpn6gdkwsc3e",
+      "handle": "jakehofman.bsky.social",
+      "display_name": "jake hofman",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:6yqnichm3wserqgat5wr5dam",
+      "handle": "mattgroh.bsky.social",
+      "display_name": "Matt Groh",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:5vljom6rcz6ektel4xy3jcbx",
+      "handle": "stephenvaisey.com",
+      "display_name": "Stephen Vaisey 🇺🇦",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:om6hfzbgz3wccqtto2pgjb4b",
+      "handle": "dansperber.bsky.social",
+      "display_name": "Dan Sperber",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:lnd6sm7v46lex6zwjqf3fb4s",
+      "handle": "kristofdhontphd.bsky.social",
+      "display_name": "Kristof Dhont",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:lbzttt6ab2sssbjobhuqpfzj",
+      "handle": "zakfio.bsky.social",
+      "display_name": "Fiona Kazarovytska",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:57lf26loid6h52judwrlgaa6",
+      "handle": "aiyanakoka.bsky.social",
+      "display_name": "Aiyana Koka Willard",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:etrovcj7bu65tdg5xjtx4h3k",
+      "handle": "jsphillips.bsky.social",
+      "display_name": "Jonathan Phillips",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:yrdy5sepig5zkkvpg2oytaje",
+      "handle": "debruine.bsky.social",
+      "display_name": "Lisa DeBruine",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:batgjai2f2zxgvjr7niiapem",
+      "handle": "nicolecrust.bsky.social",
+      "display_name": "Nicole Rust",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:ihd5zvzyjrbfdt6xgvw6jv2t",
+      "handle": "matt--coleman.bsky.social",
+      "display_name": "Matt Coleman",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:zl5772kkss4cbmpas52hqwwi",
+      "handle": "kyleflaw.com",
+      "display_name": "Kyle Fiore Law, PhD",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:f6osrhoikfdahdkq72qrt2g2",
+      "handle": "bwroberts.bsky.social",
+      "display_name": "Brent W. Roberts",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:fryjnnsidi27dqro4dhrrjte",
+      "handle": "ashleyjthomas.bsky.social",
+      "display_name": "Ashley Thomas",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:ufsmrita6nn7ku6ukou3pa7i",
+      "handle": "drbarner.bsky.social",
+      "display_name": "David Barner",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:tc3myhltwiszas5a73vfhbfc",
+      "handle": "alisongopnik.bsky.social",
+      "display_name": "Alison Gopnik",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:la3onpkr2vtcw7zequ55jvft",
+      "handle": "helendecruz.net",
+      "display_name": "Helen De Cruz",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:aifjvdw7hygqafgasjwkakej",
+      "handle": "cailinmeister.bsky.social",
+      "display_name": "Cailin O’Connor",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:upkgvxvhn4ebia3arqy4ru65",
+      "handle": "jaketapper.bsky.social",
+      "display_name": "Jake Tapper, long-suffering Philly sports fan",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:igup2zmpilk4li23rvxv5jui",
+      "handle": "rebeccasaxe.bsky.social",
+      "display_name": "Rebecca Saxe ",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:hao24wspkvowjpthx72hr732",
+      "handle": "nickbuttrick.bsky.social",
+      "display_name": "Nick Buttrick",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:od7a4y4fudwn3tpd5ly4z7wv",
+      "handle": "ericman.bsky.social",
+      "display_name": "Eric Mandelbaum",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:nhri74jnsq5bo7ozgzset4qb",
+      "handle": "gmacdonalduoft.bsky.social",
+      "display_name": "Geoff MacDonald 🇨🇦",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:r72jbekw7spitcket5djdhan",
+      "handle": "hilaryrichardson.bsky.social",
+      "display_name": "Hilary Richardson",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:ekviet5axgpvqtdadjxfpfw7",
+      "handle": "dahlialithwick.bsky.social",
+      "display_name": "Dahlia Lithwick",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:dtewmaorbddxwjpvmkg7uf2p",
+      "handle": "timbrady.bsky.social",
+      "display_name": "Timothy Brady ",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:r445g36ieuzyoozfavhjucp4",
+      "handle": "gernsbacherlab.bsky.social",
+      "display_name": "Morton Ann Gernsbacher",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:b6vixbs3tl2wnz3rqapnqcvg",
+      "handle": "zoeliberman.bsky.social",
+      "display_name": "Zoe Liberman",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:ddltccae3yxpukbgfnpkaln7",
+      "handle": "nadiachernyak.bsky.social",
+      "display_name": "Nadia Chernyak",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:zmi5etwq2bk4hpuizw7asv2e",
+      "handle": "samiyousif.bsky.social",
+      "display_name": "Sami Yousif",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:h5tf3coi7ys2eqkxknuze3qd",
+      "handle": "allisonmaster.bsky.social",
+      "display_name": "Dr. Allison Master",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:d3ktzsrn26ienlqvdb47gp2e",
+      "handle": "yarrowdunham.bsky.social",
+      "display_name": "Yarrow Dunham",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:ruuodmb7r5u6xi3cascoyeea",
+      "handle": "leising.bsky.social",
+      "display_name": "Daniel Leising",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:6zhtwlt6r3xnv7chvg725ta3",
+      "handle": "nreinholtz.bsky.social",
+      "display_name": "Nicholas Reinholtz",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:vhksxuzscmg5uokrkm4jeckh",
+      "handle": "hadas.bsky.social",
+      "display_name": "Hadas Weiss",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:yv662ia7lk75gcy34zs5wqud",
+      "handle": "angiefagerlin.bsky.social",
+      "display_name": "Angie Fagerlin",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:75sle6opuw47scorm62vulfq",
+      "handle": "ericaboothby.bsky.social",
+      "display_name": "",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:bn2uwz4benlq7ztsqnpecl56",
+      "handle": "jhamrick.bsky.social",
+      "display_name": "Jess Hamrick",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:h3g6n2svxqdicckroebuo3qm",
+      "handle": "dgkamper.bsky.social",
+      "display_name": "David G. Kamper",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:qpwqyr7hpaw2abkhak2ur77o",
+      "handle": "scottjshapiro.bsky.social",
+      "display_name": "Scott Shapiro",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:zwnwcc2yzsp7erf6bvgkgsqc",
+      "handle": "johannesbreuer.com",
+      "display_name": "Johannes Breuer",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:tacppoymf4enx46ntn2m6fa2",
+      "handle": "jlibdoesecon.bsky.social",
+      "display_name": "Jonathan Libgober",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:hge5vaum4b46i23pdodpzh4v",
+      "handle": "oechssler.bsky.social",
+      "display_name": "Jörg Oechssler ",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:uqhiefelp65qiz3idwrsse4q",
+      "handle": "humannature.bsky.social",
+      "display_name": "Eric Schniter",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:xyfuoam75b3pcwfkfjvrqeyw",
+      "handle": "davricg.bsky.social",
+      "display_name": "David Gonzalez Jimenez",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:b7pjaoptfxxqf5imv7ua547p",
+      "handle": "zainchaudhry.bsky.social",
+      "display_name": "Zain Chaudhry",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:o653h7vj7yv4bikpqnmccja6",
+      "handle": "natematias.bsky.social",
+      "display_name": "J. Nathan Matias",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:brkj2yocng7vtggmyujy4khq",
+      "handle": "natolambert.bsky.social",
+      "display_name": "Nathan Lambert",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:vt5phj3wqqekckllbfuxdul3",
+      "handle": "hannahli.bsky.social",
+      "display_name": "Hannah Li",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:6xpwzearwjjlfyb7l2oon2gp",
+      "handle": "jmendelsohn2.bsky.social",
+      "display_name": "Julia Mendelsohn",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:4x3qki42pxmtpgladyibblkr",
+      "handle": "cmaddis.bsky.social",
+      "display_name": "Chris J. Maddison",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:lgjtjq4la6ie7mp2i422z6bu",
+      "handle": "maureenritchey.bsky.social",
+      "display_name": "Maureen Ritchey",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:d4n46m3c7urwwadykxflxqjw",
+      "handle": "ycleong.bsky.social",
+      "display_name": "Yuan Chang Leong",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:v2w57pj5l6awjnpmsl7wvn35",
+      "handle": "profdata.bsky.social",
+      "display_name": "Bradley Love",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:2nlppqeeihrk7pkhwpozeazu",
+      "handle": "sayash.bsky.social",
+      "display_name": "Sayash Kapoor",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:o4dxrhql5ynh2ccwbatkmvdn",
+      "handle": "chenhaotan.bsky.social",
+      "display_name": "",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:syjp7hq2llea5uqv7pl3allz",
+      "handle": "msalganik.bsky.social",
+      "display_name": "Matthew Salganik",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:2pwis7sloevkcrj6k7adrddl",
+      "handle": "ncollina.bsky.social",
+      "display_name": "Natalie Collina",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:sj6lnyejraq7de5mswj7wr2k",
+      "handle": "cmad.land",
+      "display_name": "Colin Madland 🇨🇦",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:qn73g4nqimpqqkksh2oxogau",
+      "handle": "ceu-economics.bsky.social",
+      "display_name": "CEU Economics",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:wj4f6do3objj5gue53rppgni",
+      "handle": "aniarynarzewska.bsky.social",
+      "display_name": "Dr. Ania Rynarzewska ",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:vvh2bpvv5h5hmruh36seh7i4",
+      "handle": "solomonkurz.bsky.social",
+      "display_name": "Solomon Kurz",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:zr342jr6dosoftgukp76svhi",
+      "handle": "jrvollhardt.bsky.social",
+      "display_name": "Johanna Ray Vollhardt",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:hnslfgbnacoiufyfqko4sjol",
+      "handle": "kaisassenberg.bsky.social",
+      "display_name": "Kai Sassenberg",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:r4indfi63uuss4vfbzf3pzvc",
+      "handle": "hakancakmak.bsky.social",
+      "display_name": "Hakan Çakmak",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:io6v2kz6aifhaq6bkx3cq4sw",
+      "handle": "matthewmatix.bsky.social",
+      "display_name": "Matt Williams",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:xh7trahcqb6l5j5x74tooeeu",
+      "handle": "smadarcohenchen.bsky.social",
+      "display_name": "Smadar Cohen-Chen",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:3ns6hp7xvjpe3dlpztai6zyf",
+      "handle": "evanavaldes.bsky.social",
+      "display_name": "Evan A. Valdes",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:gnk3oxxygeig6ll334njt3ai",
+      "handle": "kenbergerum.bsky.social",
+      "display_name": "Evolutionary Social Psychology Co-Laboratory",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:2xbuwmb7rxdsfsfomergfct3",
+      "handle": "simpson.bsky.social",
+      "display_name": "Liz Simpson",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:jaapa4evqijeejl5svoowcpr",
+      "handle": "kimberlyquinn.bsky.social",
+      "display_name": "Kimberly Quinn 🇨🇦",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:qr4k6lkmqzol5kzwo3vd4p7c",
+      "handle": "mocraig.bsky.social",
+      "display_name": "Maureen Craig",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:d3yuaylgclh2mjgxa55cnvkf",
+      "handle": "drboothroyd.bsky.social",
+      "display_name": "Lynda Boothroyd",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:nqrqrsi562rf5hd25gxaqxez",
+      "handle": "gavinmullin.bsky.social",
+      "display_name": "Gavin Mullin",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:5ohqkz5ofwl2xygyeoinjjj3",
+      "handle": "drcharlie.bsky.social",
+      "display_name": "Charlie Crimston",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:t4ob47oadufbdlk5kofoimzi",
+      "handle": "andrewlivingstone.bsky.social",
+      "display_name": "Andrew Livingstone",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:25hefjlzqvxc2ezrxvugcdmk",
+      "handle": "katiekroe.bsky.social",
+      "display_name": "Katie Kroeper",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:mx5zngabfdcttygcekqcbrek",
+      "handle": "alonzivony.bsky.social",
+      "display_name": "Alon Zivony",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:vpcdmjadgn7aiwbpa2lb54uj",
+      "handle": "thepsychologist.bsky.social",
+      "display_name": "Patricia Lockwood",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:lbwgny4jvhoj44mantc25tnj",
+      "handle": "amykrosch.bsky.social",
+      "display_name": "Amy Krosch",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:wdqckmcucszvidoyr435qu5x",
+      "handle": "esfinn.bsky.social",
+      "display_name": "Emily Finn",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:5zdsqmsolziqoppn3q423cfi",
+      "handle": "matkau.bsky.social",
+      "display_name": "Mathias Kauff",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:26tp4um7ngm2b5l3pzwermtf",
+      "handle": "annegast.bsky.social",
+      "display_name": "Anne Gast",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:jljbx4n7ti7guaihpkz6tcnl",
+      "handle": "majabecker.bsky.social",
+      "display_name": "Maja Becker",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:wgivbeawnbr7i3kambv4a7eu",
+      "handle": "courtneybhilton.bsky.social",
+      "display_name": "Courtney Hilton",
+      "network_score": 4
+    },
+    {
+      "did": "did:plc:ykazcz5v46o3oilrig5euynf",
+      "handle": "j-p-reynolds.bsky.social",
+      "display_name": "James Reynolds ",
+      "network_score": 4
+    }
+  ]
+}
