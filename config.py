@@ -13,6 +13,7 @@ OPENALEX_API_KEY = os.getenv("OPENALEX_API_KEY")
 BREVO_API_KEY = os.getenv("BREVO_API_KEY")
 SENDER_EMAIL = os.getenv("SENDER_EMAIL")  # e.g. digest@yourdomain.com
 RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
+GMAIL_ADDRESS = os.getenv("GMAIL_ADDRESS") or SENDER_EMAIL
 
 # --- Pipeline settings ---
 LOOKBACK_DAYS = 7
