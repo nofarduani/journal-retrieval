@@ -25,8 +25,8 @@ Set in `.env` (local) or in the Claude Code cloud environment (scheduled runs):
 
 - `BLUESKY_HANDLE` / `BLUESKY_APP_PASSWORD` — Bluesky auth
 - `OPENALEX_API_KEY` — OpenAlex (optional, for higher rate limits)
-- `RESEND_API_KEY` — Resend API key for sending email
-- `SENDER_EMAIL` — verified sender address (e.g. digest@yourdomain.com)
+- `BREVO_API_KEY` — Brevo API key for sending email
+- `SENDER_EMAIL` — verified sender address (e.g. your Gmail)
 - `RECIPIENT_EMAIL` — digest recipient
 
 ## Filter criteria

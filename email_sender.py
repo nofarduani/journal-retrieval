@@ -100,7 +100,7 @@ def _build_html(papers: list[dict], posts: list[dict], now: datetime) -> str:
 
 
 def send_digest(papers: list[dict], posts: list[dict]) -> bool:
-    """Send the research digest as an HTML email via Resend API.
+    """Send the research digest as an HTML email via Brevo API.
 
     Returns True on success, False on failure.
     """
@@ -113,25 +113,28 @@ def send_digest(papers: list[dict], posts: list[dict]) -> bool:
     for attempt in range(3):
         try:
             response = httpx.post(
-                "https://api.resend.com/emails",
-                headers={"Authorization": f"Bearer {config.RESEND_API_KEY}"},
+                "https://api.brevo.com/v3/smtp/email",
+                headers={
+                    "api-key": config.BREVO_API_KEY,
+                    "Content-Type": "application/json",
+                },
                 json={
-                    "from": config.SENDER_EMAIL,
-                    "to": [config.RECIPIENT_EMAIL],
+                    "sender": {"email": config.SENDER_EMAIL},
+                    "to": [{"email": config.RECIPIENT_EMAIL}],
                     "subject": subject,
-                    "html": html_body,
+                    "htmlContent": html_body,
                 },
                 timeout=30.0,
             )
-            if response.status_code == 200:
+            if response.status_code == 201:
                 logger.info("Digest email sent to %s.", config.RECIPIENT_EMAIL)
                 return True
             logger.warning(
-                "Resend API returned %d: %s (attempt %d/3)",
+                "Brevo API returned %d: %s (attempt %d/3)",
                 response.status_code, response.text, attempt + 1,
             )
         except (httpx.HTTPError, OSError) as exc:
-            logger.warning("Resend API error (attempt %d/3): %s", attempt + 1, exc)
+            logger.warning("Brevo API error (attempt %d/3): %s", attempt + 1, exc)
 
         if attempt < 2:
             delay = 2 * (2 ** attempt)
