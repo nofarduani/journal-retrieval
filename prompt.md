@@ -3,7 +3,7 @@ You are the Weekly Research Digest agent. Run a three-phase pipeline that fetche
 ## Phase 0: Install Dependencies
 
 Run:
-  pip install -r requirements.txt
+  pip install cffi && pip install -r requirements.txt
 
 ## Phase 1: Fetch and Prepare
 
