@@ -1,10 +1,10 @@
-import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 from html import escape
 import os
+import time
 from datetime import datetime, timezone
 import logging
+
+import httpx
 
 import config
 
@@ -100,7 +100,7 @@ def _build_html(papers: list[dict], posts: list[dict], now: datetime) -> str:
 
 
 def send_digest(papers: list[dict], posts: list[dict]) -> bool:
-    """Send the research digest as an HTML email via Gmail SMTP.
+    """Send the research digest as an HTML email via Resend API.
 
     Returns True on success, False on failure.
     """
@@ -110,29 +110,34 @@ def send_digest(papers: list[dict], posts: list[dict]) -> bool:
 
     html_body = _build_html(papers, posts, now)
 
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = subject
-    msg["From"] = config.GMAIL_ADDRESS
-    msg["To"] = config.RECIPIENT_EMAIL
-    msg.attach(MIMEText(html_body, "html"))
-
     for attempt in range(3):
         try:
-            with smtplib.SMTP("smtp.gmail.com", 587) as server:
-                server.starttls()
-                server.login(config.GMAIL_ADDRESS, config.GMAIL_APP_PASSWORD)
-                server.sendmail(config.GMAIL_ADDRESS, config.RECIPIENT_EMAIL, msg.as_string())
-            logger.info("Digest email sent to %s.", config.RECIPIENT_EMAIL)
-            return True
-        except (smtplib.SMTPException, OSError) as exc:
-            if attempt < 2:
-                delay = 2 * (2 ** attempt)
-                logger.warning("SMTP error, retrying in %ds: %s", delay, exc)
-                import time
-                time.sleep(delay)
-            else:
-                logger.error("Failed to send digest email after 3 attempts: %s", exc)
+            response = httpx.post(
+                "https://api.resend.com/emails",
+                headers={"Authorization": f"Bearer {config.RESEND_API_KEY}"},
+                json={
+                    "from": config.SENDER_EMAIL,
+                    "to": [config.RECIPIENT_EMAIL],
+                    "subject": subject,
+                    "html": html_body,
+                },
+                timeout=30.0,
+            )
+            if response.status_code == 200:
+                logger.info("Digest email sent to %s.", config.RECIPIENT_EMAIL)
+                return True
+            logger.warning(
+                "Resend API returned %d: %s (attempt %d/3)",
+                response.status_code, response.text, attempt + 1,
+            )
+        except (httpx.HTTPError, OSError) as exc:
+            logger.warning("Resend API error (attempt %d/3): %s", attempt + 1, exc)
 
+        if attempt < 2:
+            delay = 2 * (2 ** attempt)
+            time.sleep(delay)
+
+    logger.error("Failed to send digest email after 3 attempts.")
     return False
 
 

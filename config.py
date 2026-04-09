@@ -10,8 +10,8 @@ except ImportError:
 BLUESKY_HANDLE = os.getenv("BLUESKY_HANDLE")
 BLUESKY_APP_PASSWORD = os.getenv("BLUESKY_APP_PASSWORD")
 OPENALEX_API_KEY = os.getenv("OPENALEX_API_KEY")
-GMAIL_ADDRESS = os.getenv("GMAIL_ADDRESS")
-GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
+RESEND_API_KEY = os.getenv("RESEND_API_KEY")
+SENDER_EMAIL = os.getenv("SENDER_EMAIL")  # e.g. digest@yourdomain.com
 RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
 
 # --- Pipeline settings ---
