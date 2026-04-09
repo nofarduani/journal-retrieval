@@ -69,8 +69,8 @@ def _fetch_works_for_issn(
     if config.OPENALEX_API_KEY:
         params["api_key"] = config.OPENALEX_API_KEY
 
-    if config.GMAIL_ADDRESS:
-        params["mailto"] = config.GMAIL_ADDRESS
+    if config.SENDER_EMAIL:
+        params["mailto"] = config.SENDER_EMAIL
 
     papers = []
 
