@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 PAPER_BATCH_SIZE = 20
-POST_BATCH_SIZE = 25
+POST_BATCH_SIZE = 100
 
 
 def _write_batches(items, item_type, batch_size, batches_dir):

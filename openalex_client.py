@@ -160,6 +160,9 @@ def _fetch_works_for_issn(
 def fetch_recent_papers(journals: dict, days: int) -> list[dict]:
     """Fetch recent papers from OpenAlex for the given journals.
 
+    Batches all ISSNs for a journal into a single OR query to minimize
+    API calls (1 per journal instead of 1 per ISSN).
+
     Args:
         journals: Mapping of journal name to list of ISSNs.
         days: Number of days to look back from today.
@@ -172,21 +175,24 @@ def fetch_recent_papers(journals: dict, days: int) -> list[dict]:
     all_papers: list[dict] = []
 
     for journal_name, issns in journals.items():
-        for issn in issns:
-            try:
-                papers = _fetch_works_for_issn(issn, from_date, seen_ids, journal_name)
-                all_papers.extend(papers)
-                logger.info(
-                    "Fetched %d new papers for %s (ISSN %s)",
-                    len(papers), journal_name, issn,
-                )
-            except Exception:
-                logger.warning(
-                    "Failed to fetch papers for %s (ISSN %s), skipping",
-                    journal_name, issn, exc_info=True,
-                )
-            # Polite delay between ISSN queries
-            time.sleep(0.5)
+        # OpenAlex supports OR via pipe: issn:1234-5678|8765-4321
+        combined_issn = "|".join(issns)
+        try:
+            papers = _fetch_works_for_issn(
+                combined_issn, from_date, seen_ids, journal_name
+            )
+            all_papers.extend(papers)
+            logger.info(
+                "Fetched %d new papers for %s",
+                len(papers), journal_name,
+            )
+        except Exception:
+            logger.warning(
+                "Failed to fetch papers for %s, skipping",
+                journal_name, exc_info=True,
+            )
+        # Polite delay between journal queries
+        time.sleep(0.5)
 
     logger.info("Total papers fetched: %d (credits remaining: %s)",
                 len(all_papers), _remaining_credits)

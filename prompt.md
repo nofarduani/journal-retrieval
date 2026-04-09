@@ -20,35 +20,39 @@ If it exits with any other non-zero code, stop and report the error.
 3. List the files in `data/batches/`.
 4. For each batch file, spawn a background subagent using the Agent tool. Launch all subagents in parallel (multiple Agent tool calls in a single message).
 
+Each subagent handles exactly ONE batch file. The result file name MUST match the batch file name exactly. For example, batch file `data/batches/posts_042.json` must produce result file `data/results/posts_042.json`.
+
 For PAPER batches (files named papers_NNN.json), use this subagent prompt:
 
   You are a relevance filter for academic papers.
   Read `filter_criteria.md` for the criteria.
-  Read `data/batches/{FILENAME}` to get the papers.
+  Read `data/batches/papers_NNN.json` to get the papers.
   The file contains a JSON object with a "batch_id" and "items" array.
 
   For each paper in "items", decide if it is relevant based on the criteria.
   For relevant ones, add a 1-2 sentence "note" field explaining why.
 
-  Write ONLY the relevant papers to `data/results/{BATCH_ID}.json`:
-  {"batch_id": "{BATCH_ID}", "papers": [...relevant papers with "note" added...], "posts": []}
+  Write your results to `data/results/papers_NNN.json` (same filename as the input):
+  {"batch_id": "papers_NNN", "papers": [...only relevant papers, each with "note" added...], "posts": []}
 
   If none are relevant, still write the file with empty arrays.
+  Do NOT use any other filename — it must be exactly `data/results/papers_NNN.json`.
 
-For POST batches (files named posts_NNN.json), use the same pattern but with posts:
+For POST batches (files named posts_NNN.json), use the same pattern:
 
   You are a relevance filter for Bluesky posts.
   Read `filter_criteria.md` for the criteria.
-  Read `data/batches/{FILENAME}` to get the posts.
+  Read `data/batches/posts_NNN.json` to get the posts.
   The file contains a JSON object with a "batch_id" and "items" array.
 
   For each post in "items", decide if it is relevant based on the criteria.
   For relevant ones, add a 1-2 sentence "note" field explaining why.
 
-  Write ONLY the relevant posts to `data/results/{BATCH_ID}.json`:
-  {"batch_id": "{BATCH_ID}", "papers": [], "posts": [...relevant posts with "note" added...]}
+  Write your results to `data/results/posts_NNN.json` (same filename as the input):
+  {"batch_id": "posts_NNN", "papers": [], "posts": [...only relevant posts, each with "note" added...]}
 
   If none are relevant, still write the file with empty arrays.
+  Do NOT use any other filename — it must be exactly `data/results/posts_NNN.json`.
 
 5. After ALL subagents complete, compare the files in `data/results/` against the files in `data/batches/`. For each batch file that has no corresponding result file, retry it by spawning a new subagent with the same prompt. Wait for all retries to complete.
 
